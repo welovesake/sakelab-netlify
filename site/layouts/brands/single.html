@@ -1,0 +1,124 @@
+{{ define "title" }}{{ .Title }} | {{ end }}
+
+
+{{ define "meta" }}
+  {{ partial "meta/charset.html" . }}
+  <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+  {{ range .AlternativeOutputFormats }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end }}
+  <meta property="og:title" content="{{ block "title" . }}{{ end }}{{ .Site.Title }}">
+  <meta name="twitter:title" content="{{ block "title" . }}{{ end }}{{ .Site.Title }}">
+  {{ partial "meta/seo.html" . }}
+  {{ partial "meta/browser.html" . }}
+  {{ partial "meta/og.html" . }}
+  {{ partial "meta/favicon.html" . }}
+  {{ partial "meta/webfont.html" . }}
+  {{ partial "meta/single_json_ld.html" . }}
+{{ end }}
+
+
+{{ define "main" }}
+
+<div class="bg-white">
+  <div class="measure-wide center pv5-l">
+    <div class="w-100 mb3">
+      <article role="article" class="article">
+
+        <header role="banner" class="pl3 pv3 pr3 measure-wide-ns center-ns tc-ns">
+          <h1 class="lh-title mb3 f4 f3-ns black-90">
+            {{ .Title }}
+          </h1>
+
+          <div>
+            <div class="black-30 f6">
+              {{ if not .Lastmod.IsZero }}
+                 <time datetime='{{ .Page.Lastmod.Format "2006-01-02T15:04:05Z" }}'>更新日: {{ .Page.Lastmod.Format "2006 年 01 月 02 日" }}</time>
+              {{ end }}
+              {{ if .Params.date }}
+                <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z" }}'>公開日: {{ .Date.Format "2006 年 01 月 02 日" }}</time>
+              {{ end }}
+
+              <div>
+                {{ with .Params.category }}
+                  {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+                  <a href="/category/{{ . }}">
+                    <span>{{ $taxo }}</span>
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+
+        </header>
+
+      {{ with .Params.hero }}
+
+        <figure class="ma0 mb3">
+          <img class="w-100" src="/images/{{ . }}.jpg" alt="{{ $.Title }}">
+        </figure>
+
+      {{ end }}
+
+      <div class="article__body">
+        <!-- {{ with .Params.chat }}
+          {{ if eq .enabled true }}
+            {{ range .item }}
+              <div class="Chat">
+                <div class='Chat__item Box 
+                  {{ if eq .type "oji" }}Chat__item--right Chat__item--oji
+                  {{ else if eq .type "michi" }}Chat__item--left Chat__item--michi
+                  {{ end }}
+                '>
+                  {{ range .content }}
+                  <div class="Chat__item-body">
+                    {{ .text | safeHTML }}
+                  </div>
+                  {{ end }}
+                  <a class="Chat__item-icon" href="/p/sake-daddy-and-michiko-chan/"></a>
+                </div>
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ end }} -->
+
+        {{ with .Params.intro }}
+        <div class="">
+          {{ . | safeHTML }}
+        </div>
+        {{ end }}
+
+        {{ if eq .Params.toc true }}
+          <div class="bg-near-white pv3 ph5 br2">
+            <h3 class="tc">✍️ もくじ 👩‍🎓</h3>
+            {{ .TableOfContents }}
+          </div>
+        {{ end }}
+
+
+        {{ .Content }}
+
+        <!-- {{ partial "block/share.html" . }} -->
+        <!-- {{ partial "block/user.html" . }} -->
+
+        <!-- <div class="BannerModule BannerModule--post">
+          <a href="https://goo.gl/Czi2nL" class="BannerModule__link"></a>
+          <div class="BannerModule__image" style="background-image: url(/assets/images/banners/banner-003-small.jpg)"></div>
+          <div class="BannerModule__body">
+            <h6>美味しい日本酒に、毎月出会おう。— 日本酒の定期便「saketaku」</h6>
+            <div class="BannerModule__body-footer">
+              <div class="BannerModule__body-logo"></div>
+            </div>
+          </div>
+        </div> -->
+      </div>
+
+      <!-- {{ partial "block/breadcrumb.html" . }} -->
+      
+    </div>
+  </div>
+</div>
+
+
+
+{{ end }}

@@ -128,7 +128,7 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 飲む機会の少ないお酒が選ばれることは稀だろうと思い、「どこでも手に入りやすいお酒」を基準に、近所のコンビニやスーパーで取り揃えました。
 
-{{< img src="posts/p/sake-diploma/sake-001" caption="SAKEDIPLOMA二次試験のテイスティング対策用の日本酒" w="976" h="594" >}}
+![SAKEDIPLOMA二次試験のテイスティング対策用の日本酒](/images/posts/p/sake-diploma/sake-001.jpg)
 
 近所の業務スーパーで購入。購入場所はどこでも良いと思います。ワイズマートや近所のコンビニでも手に入ります。左から順番に、
 
@@ -144,7 +144,7 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 ### SAKEDIPLIMA二次試験対策テイスティング用の焼酎を揃える（追記アリ）
 
-{{< img src="posts/p/sake-diploma/sake-002" caption="SAKEDIPLOMA二次試験のテイスティング対策用の焼酎" w="976" h="594" >}}
+![SAKEDIPLOMA二次試験のテイスティング対策用の焼酎](/images/posts/p/sake-diploma/sake-002.jpg)
 
 次は焼酎です。焼酎は香りに特徴があるので、香りだけで識別できるよう鍛錬します。こちらもセブンイレブンや近所のスーパーで手に入れました。左から順に、
 
@@ -209,7 +209,7 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 ### No.1ソムリエが語る、新しい日本酒の味わい方
 
-{{< img src="posts/p/sake-diploma/002" caption="No.1ソムリエが語る、新しい日本酒の味わい方"  w="980" h="735" >}}
+![No.1ソムリエが語る、新しい日本酒の味わい方](/images/posts/p/sake-diploma/002.jpg)
 
 「SAKE DIPLOMA（サケディプロマ）認定試験」を開催する日本ソムリエ協会の会長でもある田崎真也氏の著書です。「醸造方法・原料米・酵母」等による違いでどのように香りや味が変化するのかが詳しく書かれています。ネットで探してみても、これを教科書として勉強している方が多く見受けられます。ここに載っている日本酒が酒屋から売り切れ始めているという噂も。
 
@@ -217,7 +217,8 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 ### テイスティングは脳でする
 
-{{< img src="posts/p/sake-diploma/003" caption="テイスティングは脳でする" w="980" h="735" >}}
+
+![テイスティングは脳でする](/images/posts/p/sake-diploma/003.jpg)
 
 
 日本ソムリエ協会の2人のトップソムリエが「香り」や「味わい」の分析法を細かく解説してくれている本です。「テイスティングは我流では上達しない。脳を使って、テイスティングの基本フォームを守り、反復練習をすることが大事」と説明し、テイスティング力を向上させることを目的につくられているので、試験後もそばにおいておき、ことあるごとに読み返したくなる本です。
@@ -231,7 +232,8 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 ### 二次試験の対策に最適！日本酒2本セット解説書付き「サケタク」
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-001" caption="SAKEDIPLOMAのテイスティング手順に則ったテイスティングノート" w="980" h="980" >}}
+![SAKEDIPLOMAのテイスティング手順に則ったテイスティングノート](/images/posts/p/sake-diploma/appraisal/appraisal-001.jpg)
+
 
 最後に、SAKE DIPLOMA（サケディプロマ）の二次試験「テイスティング対策」にも使える、美味しい日本酒の定期便「[サケタク](https://saketaku.com/?utm_source=sakelab&utm_medium=link&utm_campaign=sakelab_diploma)」をご紹介します。
 
@@ -243,15 +245,17 @@ SAKEディプロマへの道](http://www.kagataya.net/diploma/2017/diploma16/)�
 
 二次試験の「テイスティング対策」としても有用にご利用いただけます。
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-002" caption="酒ディプロマ二次試験対策でご利用いただける、お届けする銘柄のテイスティングノート。味わいの変化や、温度帯、うつわの記載もあります。"  w="980" h="980" >}}
+![酒ディプロマ二次試験対策でご利用いただける、お届けする銘柄のテイスティングノート。味わいの変化や、温度帯、うつわの記載もあります。](/images/posts/p/sake-diploma/appraisal/appraisal-002.jpg)
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-003" caption="SAKE DIPLOMAの二次試験対策でご活用いただける「テイスティングノートの詳細１」" w="980" h="980" >}}
+![SAKE DIPLOMAの二次試験対策でご活用いただける「テイスティングノートの詳細1」](/images/posts/p/sake-diploma/appraisal/appraisal-003.jpg)
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-004" caption="「テイスティングノートの詳細２」"  w="980" h="980" >}}
+![SAKE DIPLOMAの二次試験対策でご活用いただける「テイスティングノートの詳細2」](/images/posts/p/sake-diploma/appraisal/appraisal-004.jpg)
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-005" caption="酒ディプロマのテイスティング手順に従って書き起こされた「日本酒テイスティング用チェックリスト」" w="980" h="980" >}}
+![酒ディプロマのテイスティング手順に従って書き起こされた「日本酒テイスティング用チェックリスト」](/images/posts/p/sake-diploma/appraisal/appraisal-005.jpg)
 
-{{< img src="posts/p/sake-diploma/appraisal/appraisal-006" caption="SAKEDIPLOMA ( 酒ディプロマ )の二次試験対策で、何度でも利用いただける「日本酒テイスティング用チェックリスト」" w="980" h="980" >}}
+![SAKEDIPLOMA ( 酒ディプロマ )の二次試験対策で、何度でも利用いただける「日本酒テイスティング用チェックリスト」](/images/posts/p/sake-diploma/appraisal/appraisal-006.jpg)
+
+
 
 ### 【ご好評につき延長しました！クーポン付き】５０名様限定！サケタクからの嬉しい特典
 

@@ -1,0 +1,23 @@
+
+
+{{ if eq (.Get "class") "voice-big" }}
+<figure class="blockquote--voice-big">
+  {{ with .Get "quote" }}
+  <blockquote>
+    <p>{{ . }}</p>
+  </blockquote>
+  {{ end }}
+  <figcaption>
+    {{ with .Get "caption" }}<span>{{ . }}</span>{{ end }}
+    {{ if .Get "author" }}
+    <cite>
+      {{ if .Get "url" }}
+        by <a href="{{ .Get "url" }}">{{ .Get "author" }}</a>
+      {{ else }}
+        by {{ . }}
+      {{ end }}
+    </cite>
+    {{ end }}
+  </figcaption>
+</figure>
+{{ end }}

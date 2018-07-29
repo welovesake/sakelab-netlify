@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ⚡ id="top" lang="ja">
+  <head>
+
+    <!-- Heads -->
+    {{ block "meta" . }}{{ end }}
+    <style amp-custom>
+      {{ readFile "public/assets/stylesheets/amp/style.css" | safeCSS }}
+    </style>
+    {{ partial "scripts/amp.html" . }}
+    
+  </head>
+  <body id="{{ if eq .Kind "home" }}home{{ end }}" class="{{ if eq .Kind "home" }}home{{ end }}">
+
+    <!-- Google Analytics -->
+    {{ with .Site.Params.google.analytics }}
+    <amp-analytics type="googleanalytics" id="analytics_sakelab">
+    <script type="application/json">
+    {
+      "vars": {
+        "account": "{{ . }}"
+      },
+      "triggers": {
+        "trackPageview": {
+          "on": "visible",
+          "request": "pageview"
+        }
+      }
+    }
+    </script>
+    </amp-analytics>
+    {{ end }}
+
+    <div class="PageRoot">
+
+      {{ partial "block/header.html" . }}
+      
+      {{ block "main" . }}{{ end }}
+
+
+      {{ partial "block/banner.amp.html" . }}
+      {{ partial "block/footer.html" . }}
+
+    </div>
+
+  </body>
+</html>

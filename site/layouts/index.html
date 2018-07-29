@@ -1,13 +1,29 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<section class="mw7 center">
+  <h2 class="ph3 ph0-l">美味しい日本酒の研究所「sakelab」</h2>
+  {{ range .Pages }}
+    <article class="relative pv4 bt bb b--black-05 ph3 ph0-l">
+      <a href="{{ .RelPermalink }}" class="absolute absolute--fill"></a>
+      <div class="flex flex-column flex-row-ns">
+        <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+          <h2 class="f3 mt0 lh-title">{{ .Title }}</h2>
+          <p class="f5 lh-copy">
+            {{ .Summary }}
+          </p>
+        </div>
+        {{ with .Params.hero }}
+          <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+            <img src="/images/{{ . }}.jpg" class="db" alt="{{ $.Title }}">
+          </div>
+        {{ end }}
+      </div>
+      <time class="f6 db gray">
+        {{ .PublishDate.Format "January 2, 2006" }} 
+      </time>
+    </article>
+  {{ end }}
+</section>
 
-{{ partial "short-text" .Params.blurb}}
-
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
 
 {{ end }}

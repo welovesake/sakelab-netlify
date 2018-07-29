@@ -1,0 +1,41 @@
+
+
+
+<div class="CardModule__item">
+  <a class="Box" href="{{ .Permalink }}">
+    <div class="Image">
+      <div class="Image__spacer"></div>
+      <div class="Image__wrapper">
+        <div class="Image__img lazyload" data-bgset="/assets/images/{{ .Params.hero | default "global/placeholder" }}-small.jpg"></div>
+      </div>
+    </div>
+  </a>
+  <div class="CardModule__item-title">
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </div>
+  <div class="CardModule__meta">
+<!--     <div class="CardModule__meta-author">
+      <a href="">
+        {{ $id := .Params.author }}
+        {{ range $.Site.Data.users.user }}
+          {{ if eq $id .id }}
+            {{ .name }}
+          {{ end }}
+        {{ end }}
+      </a>
+    </div> -->
+    <time class="CardModule__meta-date" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">
+      {{ .Page.Date.Format "2006-01-02" }}
+    </time>
+  </div>
+  <div class="CardModule__category">
+    {{ with .Params.category }}
+      {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+      <a href="/category/{{ . }}">
+        <span>{{ $taxo }}</span>
+      </a>
+    {{ end }}
+  </div>
+</div>

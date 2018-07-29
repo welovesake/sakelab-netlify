@@ -1,0 +1,14 @@
+<!-- Open Graph Tags -->
+<meta itemprop="og:image" content="{{ .Site.BaseURL }}/assets/images/{{ .Params.hero | default .Params.og.image }}-large.jpg">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="{{ .Site.Params.og.locale }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:description" content="{{ .Params.og_description | default $.Site.Params.description }}">
+<meta property="og:app_id" content="{{ with $.Site.Params.facebook.app_id }}{{ . }}{{ end }}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="{{ .Site.Params.twitter.card }}">
+<meta name="twitter:site" content="{{ .Site.Params.twitter.site }}">
+<meta name="twitter:creator" content="{{ .Site.Params.twitter.creator }}">
+<meta name="twitter:description" content="{{ .Params.og_description | default $.Site.Params.description }}">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}/assets/images/{{ .Params.hero | default .Params.og.image }}-large.jpg">

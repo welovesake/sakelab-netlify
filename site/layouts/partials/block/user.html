@@ -1,0 +1,180 @@
+
+
+{{ with .Params.tester }}
+  {{ $id := . }}
+  {{ range $.Site.Data.users.user }}
+    {{ if eq $id .id }}
+      <div class="Post__user Post__user--tester">
+        <h5 class="Post__user-heading">
+            この日本酒を利き酒した人
+        </h5>
+        <div class="Post__user-thumb" data-name="{{ .id }}"></div>
+        <div class="Post__user-text">
+          <div class="Post__user-name">
+            {{ .name }}
+          </div>
+          <div class="Post__user-jobtitle">
+            {{ .jobtitle | safeHTML }}
+          </div>
+          <div class="Post__user-bio">
+            {{ .bio }}
+          </div>
+          {{ with .social }}
+          <div class="Post__user-social">
+            <ul>
+              {{ with .facebook }}
+              <li>
+                <a href="{{ . }}">facebook</a>
+              </li>
+              {{ end }}
+              {{ with .instagram }}
+              <li>
+                <a href="{{ . }}">instagram</a>
+              </li>
+              {{ end }}
+              {{ with .twitter }}
+              <li>
+                <a href="{{ . }}">twitter</a>
+              </li>
+              {{ end }}
+              {{ with .blog }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+              {{ with .shop }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+    {{ end }}
+
+  {{ end }}  
+{{ end }}
+
+
+
+{{ with .Params.author }}
+  {{ $id := . }}
+  {{ range $.Site.Data.users.user }}
+    {{ if eq $id .id }}
+      <div class="Post__user Post__user--author">
+        <h5 class="Post__user-heading">
+            この記事を書いた人
+        </h5>
+        <div class="Post__user-thumb" data-name="{{ .id }}"></div>
+        <div class="Post__user-text">
+          <div class="Post__user-name">
+            {{ .name }}
+          </div>
+          <div class="Post__user-jobtitle">
+            {{ .jobtitle | safeHTML }}
+          </div>
+          <div class="Post__user-bio">
+            {{ .bio }}
+          </div>
+          {{ with .social }}
+          <div class="Post__user-social">
+            <ul>
+              {{ with .facebook }}
+              <li>
+                <a href="{{ . }}">facebook</a>
+              </li>
+              {{ end }}
+              {{ with .instagram }}
+              <li>
+                <a href="{{ . }}">instagram</a>
+              </li>
+              {{ end }}
+              {{ with .twitter }}
+              <li>
+                <a href="{{ . }}">twitter</a>
+              </li>
+              {{ end }}
+              {{ with .blog }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+              {{ with .shop }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+    {{ end }}
+
+  {{ end }}  
+{{ end }}
+
+
+
+
+{{ with .Params.expert }}
+  {{ $id := . }}
+  {{ range $.Site.Data.users.user }}
+    {{ if eq $id .id }}
+      <div class="Post__user" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h5 class="Post__user-heading">
+          この記事を監修してくれた人
+        </h5>
+        <div class="Post__user-thumb" data-name="{{ .id }}"></div>
+        <div class="Post__user-text">
+          <div class="Post__user-name" itemprop="name">
+            {{ .name }}
+          </div>
+          <div class="Post__user-jobtitle">
+            {{ .jobtitle | safeHTML }}
+          </div>
+          <div class="Post__user-bio">
+            {{ .bio }}
+          </div>
+          {{ with .social }}
+          <div class="Post__user-social">
+            <ul>
+              {{ with .facebook }}
+              <li>
+                <a href="{{ . }}">facebook</a>
+              </li>
+              {{ end }}
+              {{ with .instagram }}
+              <li>
+                <a href="{{ . }}">instagram</a>
+              </li>
+              {{ end }}
+              {{ with .twitter }}
+              <li>
+                <a href="{{ . }}">twitter</a>
+              </li>
+              {{ end }}
+              {{ with .blog }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+              {{ with .shop }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+    {{ end }}
+
+  {{ end }}  
+{{ end }}

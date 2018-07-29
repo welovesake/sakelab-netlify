@@ -1,0 +1,31 @@
+<footer class="Footer Box">
+  <div class="Footer__wrapper BoxGrid Box">
+    <div class="Footer__content Box">
+      <div class="Footer__sections Box Box--row Box--wrap">
+        <div class="Footer__scroll-to-top Box Box--center">
+          <a href="#top">トップへ戻る</a>
+        </div>
+        {{ with .Site.Params.nav.section }}
+          {{ range . }}
+            <div class="Footer__section">
+              <h6 class="Footer__section-title">
+                {{ .title }}
+              </h6>
+              <div class="Footer__section-links">
+                {{ range .item }}
+                  <a href="{{ .url }}">{{ .title }}</a>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="Footer__copyright">
+      {{ .Site.Params.copyright }}
+    </div>
+    <div class="Footer__under20alert">
+      お酒は20歳になってから。
+    </div>
+  </div>
+</footer>

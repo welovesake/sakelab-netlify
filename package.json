@@ -51,8 +51,12 @@
   },
   "devDependencies": {
     "gulp-inject": "^4.2.0",
+    "gulp-sass": "^4.0.1",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
-    "svg-sprite-loader": "^3.0.0"
+    "install": "^0.12.1",
+    "npm": "^6.2.0",
+    "svg-sprite-loader": "^3.0.0",
+    "tachyons": "^4.10.0"
   }
 }

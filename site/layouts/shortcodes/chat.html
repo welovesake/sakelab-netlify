@@ -1,0 +1,15 @@
+
+
+<div class="Chat">
+  <div class='Chat__item Box Chat__item--{{ .Get "position" }} Chat__item--{{ .Get "user" }}'>
+    <div class="Chat__item-body">
+      {{ .Get "contentOne" | safeHTML }}
+    </div>
+    {{ if .Get "contentTwo" }}
+      <div class="Chat__item-body">
+        {{ .Get "contentTwo" | safeHTML }}
+      </div>
+    {{ end }}
+    <a class="Chat__item-icon" href="/p/sake-daddy-and-michiko-chan/"></a>
+  </div>
+</div>

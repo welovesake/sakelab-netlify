@@ -1,0 +1,9 @@
+
+<figure class="Post__video">
+  <iframe src='//www.youtube.com/embed/{{ .Get "id" }}{{ if (.Get "start") }}?start={{ .Get "start" }}{{ end }}?rel=0&controls=0&showinfo=0&autoplay=0"' frameborder='0' allowfullscreen></iframe>
+  <figcaption>
+    {{ if .Get "caption" }}
+      {{ .Get "caption" }}
+    {{ end }}
+  </figcaption>
+</figure>

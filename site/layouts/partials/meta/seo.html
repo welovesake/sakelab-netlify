@@ -1,0 +1,14 @@
+
+<!-- Description -->
+<meta name="description" content="{{ .Params.og_description | default $.Site.Params.description }}">
+
+<!-- Author -->
+<meta name="author" content="{{ with $.Site.Params.author }}{{ . }}{{ end }}">
+
+<!-- Image -->
+<meta itemprop="image" content="{{ .Site.BaseURL }}/assets/images/{{ .Params.hero | default .Params.og.image }}-large.jpg">
+
+<!-- Links -->
+<link itemprop="url" href="{{ .Permalink }}">
+<!-- <link rel="alternate" hreflang="en" href="/en" /> -->
+

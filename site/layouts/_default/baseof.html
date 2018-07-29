@@ -1,9 +1,29 @@
-<!doctype html>
-<html lang="en">
-  {{ partial "head" . }}
-  <body class="sans-serif">
-    {{ partial "nav" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+<!DOCTYPE html>
+<html id="top" lang="ja" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml">
+  <head>
+
+    <!-- Heads -->
+    {{ block "meta" . }}{{ end }}
+    {{ partial "scripts/analytics.html" . }}
+    <link href="/css/main.css" rel="stylesheet">
+
+  </head>
+  <body id="{{ if eq .Kind "home" }}home{{ end }}" class="{{ if eq .Kind "home" }}home{{ end }}">
+
+    <div class="PageRoot">
+
+<!--       {{ partial "block/header.html" . }} -->
+      
+      {{ block "main" . }}{{ end }}
+
+      <!-- {{ partial "block/instagram.html" . }} -->
+      <!-- {{ partial "block/banner.html" . }} -->
+      <!-- {{ partial "block/footer.html" . }} -->
+
+    </div>
+
+    <!-- {{ partial "scripts/scripts.html" . }} -->
+
+
   </body>
 </html>

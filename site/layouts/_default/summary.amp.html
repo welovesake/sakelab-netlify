@@ -1,0 +1,38 @@
+
+
+
+<div class="CardModule__item">
+  <a class="Box" href="{{ .Permalink }}">
+    <div class="Image">
+      <amp-img src='/assets/images/{{ .Params.hero | default "global/placeholder" }}-small.jpg' alt="美味しい日本酒の定期便「saketaku（サケタク）」" width="976" height="549" layout="responsive"></amp-img>
+    </div>
+  </a>
+  <div class="CardModule__item-title">
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </div>
+  <div class="CardModule__meta">
+<!--     <div class="CardModule__meta-author">
+      <a href="">
+        {{ $id := .Params.author }}
+        {{ range $.Site.Data.users.user }}
+          {{ if eq $id .id }}
+            {{ .name }}
+          {{ end }}
+        {{ end }}
+      </a>
+    </div> -->
+    <time class="CardModule__meta-date" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">
+      {{ .Page.Date.Format "2006-01-02" }}
+    </time>
+  </div>
+  <div class="CardModule__category">
+    {{ with .Params.category }}
+      {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+      <a href="/category/{{ . }}">
+        <span>{{ $taxo }}</span>
+      </a>
+    {{ end }}
+  </div>
+</div>

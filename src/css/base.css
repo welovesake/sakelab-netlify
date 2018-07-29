@@ -1,0 +1,32 @@
+
+
+:root {
+  --color-accent: #8ab735;
+  --color-body-text: #191919;
+  --color-main-background: #ffffff;
+  --color-border: rgba(0,0,0,.05);
+}
+
+
+body {
+  font-family: YakuHanJP,-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-size: 14px;
+  font-size: 1rem;
+  line-height: 1.8;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--color-body-text);
+  background-color: #fff;
+}
+
+
+.primary {
+  color:  var(--color-accent);
+}
+.bg-primary {
+  background-color: var(--color-accent);
+}
+.b--primary {
+  border-color: var(--color-accent);
+}

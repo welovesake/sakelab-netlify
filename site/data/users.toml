@@ -1,0 +1,47 @@
+[[ user ]]
+    id = "admin"
+    type = "author"
+    name = "saketaku編集部"
+    jobtitle = "日本酒の定期便「saketaku」の中の人<br>saketaku公式日本酒鑑定士"
+    bio = "「美味しい」を徹底的に深掘りするのが、saketaku式の日本酒道。当サイトでは、飲み手目線を貫きながら、なおかつ具体的な理論や技法にこだわり、その手法やノウハウを惜しみなく提供していきます。酒米・酒造りの現場に入り、毎年欠かさず日本酒造りを行う日本酒愛溢れるメンバーで構成されています。"
+    icon = "/assets/images/icons/admin-small.jpg"
+    [ user.social ]
+        twitter = "https://twitter.com/saketaku_san"
+        facebook = "https://www.facebook.com/saketaku.san/"
+        instagram = "https://www.instagram.com/saketaku_san/"
+        [user.social.shop]
+            title = "美味しい日本酒の定期便「saketaku」"
+            url = "//saketaku.com"
+
+[[ user ]]
+    id = "yuji-yamauchi"
+    type = "expert"
+    name = "山内 祐治"
+    jobtitle = "湯島天神下 すし初 4代目<br>saketaku公式日本酒鑑定士、利酒師<br>日本ソムリエ協会認定「ソムリエ」「SAKEDIPLOMA」"
+    bio = "『江戸前のお仕事とお酒との融合』 すし初 四代目 湯島天神下 すし初 という、百年近く続く寿司屋の四代目でございます。"
+    icon = "/assets/images/icons/sushihatsu-yamauchi.jpg"
+    [ user.social ]
+        facebook = "https://www.facebook.com/yuji.yamauchi.146"
+        instagram = "https://www.instagram.com/sushihatsu_wakadannna/"
+        [user.social.shop]
+            title = "湯島天神下 すし初"
+            url = "//r.gnavi.co.jp/g415900"
+
+[[ user ]]
+    id = "mukasa-yoichi"
+    type = "expert"
+    name = "武笠 陽一"
+    jobtitle = "坂戸屋商店 五代目<br>saketaku公式日本酒鑑定士"
+    bio = "大手ビール会社勤務を経て、1999年、家業の酒屋「坂戸屋」の後継に入る。卓越した熟練の蔵元や杜氏との交流を経て、丁寧に醸した酒と料理の相性について学び、地酒に開眼。遠方から訪れる個人客も後を絶たない。"
+    icon = "/assets/images/icons/sakadoya-mukasa.jpg"
+    [ user.social ]
+        facebook = "https://www.facebook.com/sakadoya.sake.mizonokuchi/"
+        [user.social.shop]
+            title = "坂戸屋商店"
+            url = "//www.sakadoya-style.com/"
+
+
+
+
+
+
