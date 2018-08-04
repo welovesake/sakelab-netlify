@@ -1,50 +1,46 @@
 
+<!-- If home -->
 
-  <header class="HeaderGlobal Box" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
-    <div class="HeaderGlobal__content Box Box--grow Box--wrap Box--row Box--center">
-      <!-- <div class="HeaderGlobal__menu-button js-menu-trigger-show">
-        もくじ
-      </div> -->
-      <a href="/">
-        <div class="HeaderGlobal__logo"></div>
+{{ if .IsHome }}
+
+  <nav class="flex flex-column flex-row-l justify-between w-100 border-box pa3 ph5-l">
+    <div class="w-100 w-25-l tc tl-l mb2 mb0-l">
+      <a href="/" class="b link dim dark-gray f6 f5-ns dib lh-title">
+        美味しい日本酒の研究所
+        <br class='dn-l'>
+        「saketaku lab」
       </a>
-      <div class="HeaderGlobal__info">
-        <a href="/p/experts/">
-          信頼されるサイトとして
-        </a>
-      </div>
     </div>
-  </header>
+    <div class="w-100 w-50-l tc">
+      <a class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="#" title="About">All</a>
+      <a class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="#" title="Store">Blog</a>
+      <a class="link dim dark-gray f6 f5-ns dib" href="#" title="Contact">Join Us</a>
+    </div>
+    <div class="w-100 w-25-l dn db-l tr">
+      share this!
+    </div>
+  </nav>
 
-  <div class="HeaderGlobal__nav" itemscope="itemscope" itemtype="http://scheme.org/SiteNavigationElement">
-    <div class="HeaderGlobal__nav-header Box">
-      <div class="HeaderGlobal__nav-close-button js-menu-trigger-close">
-        とじる
-      </div>
-    </div>
-    <div class="HeaderGlobal__nav-body">
-      {{ with .Site.Params.nav.section }}
-        {{ range . }}
-        <div class="HeaderGlobal__nav-section">
-          <h5>{{ .title }}</h5>
-          <ul>
-            {{ range .item }}
-              <li>
-                <a href="{{ .url }}">{{ .title }}</a>
-              </li>
-            {{ end }}
-          </ul>
-        </div>
-        {{ end }}
-      {{ end }}
-    </div>
-    <div class="HeaderGlobal__nav-footer">
-      <div class="HeaderGlobal__nav-footercopyright">
-        {{ .Site.Params.copyright }}
-      </div>
-      <div class="HeaderGlobal__nav-footerunder20alert">
-        お酒は20歳になってから。
-      </div>
-    </div>
-  </div>
+{{ else }}
 
+  <nav class="flex flex-column flex-row-l justify-between w-100 border-box pa3 ph5-l">
+    <div class="w-100 w-25-l">
+      <a href="/" class="link dim gray f6 f5-l dib">
+        <span>←</span> 
+        <span class="dn dib-l">saketaku blogへ</span>
+        <span class="dib dn-l">もどる</span>
+      </a>
+    </div>
+    <div class="w-100 w-50-l tc">
+      <a href="/" class="b link dim dark-gray f6 f5-ns dib lh-title">
+        美味しい日本酒の研究所
+        <br class='dn-l'>
+        「saketaku lab」
+      </a>
+    </div>
+    <div class="w-100 w-25-l tr">
+      share this!
+    </div>
+  </nav>
+
+{{ end }}

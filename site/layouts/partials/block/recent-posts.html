@@ -1,9 +1,7 @@
-{{ define "main" }}
-
 
 <div class="bg-near-white pv3 pv5-l">
   <div class="mw7 center">
-    {{ range first 6 .Pages }}
+    {{ range first 3 .Site.Pages }}
       {{ .Render "summary" }}
     {{ end }}
 
@@ -12,8 +10,3 @@
     </div>
   </div>
 </div>
-
-
-
-
-{{ end }}

@@ -20,7 +20,7 @@
 
 {{ define "main" }}
 <div class="bg-white">
-  <div class="measure-wide center pv5-l">
+  <div class="measure-wide center">
     <div class="w-100 mb3">
       <article role="article" class="article">
 
@@ -118,45 +118,11 @@
   </div>
 </div>
 
+
+
 <!-- {{ partial "block/follow.html" . }} -->
 
-
-<!-- <div class="HeadingModule Box">
-    <div class="HeadingModule__wrapper Box BoxGrid Box--row">
-      <div class="HeadingModule__content Box Box--grow Box--row">
-        <h3>
-        最新の記事
-        </h3>        
-      </div>
-    </div>
-</div>
- -->
-
-<!-- <div class="Posts Box">
-  <div class="Posts__wrapper Box BoxGrid">
-    <div class="Posts__content Box Box--row Box--wrap CardModule CardModule--4">
-      <div class="CardModule__wrapper Box Box--grow">
-        <div class="CardModule__content Box Box--row Box--wrap">
-
-          {{ range first 4 .Site.Pages }}
-            {{ .Render "summary" }}
-          {{ end }}
-
-        </div>
-      </div>
-
-    </div>
-
-    <div class="Posts__footer Box Box--grow Box--center">
-      <div class="ButtonGroup">
-        <a href="/p" class="Button">
-          もっと見る
-        </a>
-      </div>
-    </div>
-
-  </div>
-</div> -->
+{{ partial "block/recent-posts.html" . }}
 
 
 {{ end }}

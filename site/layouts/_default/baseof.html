@@ -12,13 +12,14 @@
 
     <div class="PageRoot">
 
-<!--       {{ partial "block/header.html" . }} -->
-      
+      {{ partial "block/header.html" . }}
       {{ block "main" . }}{{ end }}
 
       <!-- {{ partial "block/instagram.html" . }} -->
       <!-- {{ partial "block/banner.html" . }} -->
-      <!-- {{ partial "block/footer.html" . }} -->
+
+      {{ partial "block/footer" $.Site.Data.global.footer }} 
+
 
     </div>
 

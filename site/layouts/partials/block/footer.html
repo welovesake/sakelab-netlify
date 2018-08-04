@@ -1,31 +1,59 @@
-<footer class="Footer Box">
-  <div class="Footer__wrapper BoxGrid Box">
-    <div class="Footer__content Box">
-      <div class="Footer__sections Box Box--row Box--wrap">
-        <div class="Footer__scroll-to-top Box Box--center">
-          <a href="#top">トップへ戻る</a>
-        </div>
-        {{ with .Site.Params.nav.section }}
-          {{ range . }}
-            <div class="Footer__section">
-              <h6 class="Footer__section-title">
-                {{ .title }}
-              </h6>
-              <div class="Footer__section-links">
-                {{ range .item }}
-                  <a href="{{ .url }}">{{ .title }}</a>
+<!-- Footer 1st -->
+<section class="bg-white bt b--black-05 pv5-l">
+  <div class="mw9 center flex flex-wrap-reverse flex-wrap-l justify-between">
+    <div class="w-100 w-50-l mb3 mb0-l ph3">
+      <div class="flex flex-wrap">
+
+        {{ range .first }}
+          <div class="w-100 w-third-l mb4 mb0-l">
+            <div class="mh2-l">
+              <h5 class="f6 pa0 ma0 mb3 normal black-60">
+                {{ .heading }}
+              </h5>
+              <div class="">
+
+                {{ range .items }}
+                  <a href="{{ .url }}" class="link dim f6 lh-copy black-90 pv1 no-underline db">
+                    {{ .title }}
+                  </a>
                 {{ end }}
               </div>
             </div>
-          {{ end }}
+          </div>
         {{ end }}
+
       </div>
     </div>
-    <div class="Footer__copyright">
-      {{ .Site.Params.copyright }}
-    </div>
-    <div class="Footer__under20alert">
-      お酒は20歳になってから。
+    <div class="w-100 w-50-l bb bb-0-l b--black-05 pa3 pr3-l pv5 pv0-l mb5 mb0-l">
+
+        <div class="bg-near-white pa4 br2">
+          {{ partial "block/form-lead" . }}
+        </div>
+
     </div>
   </div>
-</footer>
+</section>
+
+<!-- Footer 2nd -->
+<section class="bg-near-white pv3 ph3">
+  <div class="mw9 center flex flex-wrap-reverse flex-wrap-l justify-center justify-start-l">
+    <div class="f6 black-30 mr2-l lh-copy">
+      {{ .second.copyright }}
+    </div>
+    <nav class="mb3 mb0-l">
+      <div class="f6 dib black-30 flex flex-wrap justify-center justify-start-l">
+        {{ range $index, $val := .second.items }}
+          {{ if (gt $index 0) }}
+            <span class="dn db-l lh-copy">|</span>
+          {{ end }}
+          <a href="{{ .url }}" class="f6 ph2 black-30 no-underline lh-copy">
+            {{ .title }}
+          </a>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
+</section>
+
+
+

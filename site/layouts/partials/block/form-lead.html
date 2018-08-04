@@ -1,0 +1,93 @@
+<div class="flex flex-wrap">
+  <div class="w-100 w-50-l">
+    <div class="pr3-l">
+      <div class="">
+        <img src="/img/global/form/1.jpg" alt="" class="w-100">
+      </div>
+    </div>
+  </div>
+  <div class="w-100 w-50-l">
+    <form id="email_signup" class="klaviyo_bare_embed_NfxKRF" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
+      <input type="hidden" name="g" value="NfxKRF">
+      <input type="hidden" name="$fields" value="$first_name,$last_name"/>
+      <div class="klaviyo_field_group">
+        <h3 class="ma0 mb2 lh-title">
+          メールアドレスを登録して、<br>
+          クーポンを手に入れよう
+        </h3>
+        <p class="f6 black-60 ma0 mb2 lh-copy">
+          メールアドレスを登録すると、初回のみ利用可能なオトクなクーポンや、楽しい日本酒講座が届きます。気軽に楽しく、saketakuをご利用ください。
+        </p>
+        <!-- Register: First/Last Name -->
+        <div class="flex flex-wrap mb1">
+          <div class="w-100 w-50-l pr3-l">
+            <label for="$last_name" class="klaviyo_form_actions f6 db black-60 mb1">
+              姓*
+            </label>
+            <input type="text"
+              name="$last_name"
+              id="$last_name"
+              required
+              placeholder="山田"
+              class="klaviyo_form_actions input-reset ba b--black-20 lh-solid pa3 f6 mb2 db w-100 br2">
+
+          </div>
+          <div class="w-100 w-50-l">
+            <label for="$first_name" class="klaviyo_form_actions f6 db black-60 mb1">
+              名*
+            </label>
+            <input type="text"
+              name="$first_name"
+              id="$first_name"
+              required
+              placeholder="酒太郎"
+              class="klaviyo_form_actions input-reset ba b--black-20 lh-solid pa3 f6 mb2 db w-100 br2">
+          </div>
+        </div>
+        <div>
+          <label for="k_id_email" class="klaviyo_form_actions f6 db black-60 mb1">
+            メールアドレス*
+          </label>
+          <input 
+            required
+            type="email" 
+            value="" 
+            name="email" 
+            id="k_id_email" 
+            placeholder="メールアドレス"
+            class="klaviyo_form_actions input-reset ba b--black-20 lh-solid pa3 f6 mb2 db w-100 br2"
+          />
+        </div>
+      </div>
+      <div class="klaviyo_messages">
+        <div class="success_message" style="display:none;"></div>
+        <div class="error_message" style="display:none;"></div>
+        </div>
+      <div class="klaviyo_form_actions">
+        <button 
+          type="submit" 
+          class="klaviyo_submit_button f6 dim br2 ba bw1 ph3 pv2 mb2 dib bg-primary b--primary white pointer">
+          登録する
+        </button>
+      </div>
+    </form>
+    <style>
+      .success_message {
+        line-height: 1.5;
+        font-size: .875rem;
+        padding: 1rem;
+        border-radius: 3px;
+        color: #fff;
+        background: var(--color-accent);
+      }
+    </style>
+
+    <script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
+    <script type="text/javascript">
+      KlaviyoSubscribe.attachToForms('#email_signup', {
+        hide_form_on_success: true,
+        success_message: "ご登録ありがとうございます！ご指定のメールアドレスにクーポン情報をお届けしました。ぜひご確認ください。"
+      });
+    </script>
+  </div>
+</div>      

@@ -1,0 +1,47 @@
+
+
+footer:
+  first:
+    - heading: "私たちについて"
+      items:
+        - title: "saketakuの考え"
+          url: "/p/vision"
+        - title: "公式ブログ「saketaku lab」"
+          url: "//lab.saketaku.com"
+        # - title: "未来のロードマップ"
+        #   url: "http://bit.ly/2yg8Fcd"
+        - title: "運営会社"
+          url: "/p/company"
+    - heading: "プロダクト"
+      items:
+        - title: "saketaku basic"
+          url: "/products/basic"
+        - title: "saketaku premium"
+          url: "/products/premium"
+        - title: "レビューを見る"
+          url: "/products/basic/#reviews"
+        # - title: "友だちを招待する"
+        #   url: "/p/invite"
+    - heading: "サポート & リソース"
+      items:
+        - title: "お問い合わせ"
+          url: "mailto:hi@saketaku.com"
+        # - title: "クーポンを受け取る"
+        #   url: "/p/coupon"
+        - title: "よくある質問"
+          url: "/p/faq"
+        - title: "メディア掲載について"
+          url: "/p/press"
+  second:
+    copyright: "© 2018 All Rights Reserved"
+    items:
+      - title: "プライバシーポリシー"
+        url: "/p/privacy"
+      - title: "利用規約"
+        url: "/p/terms"
+      - title: "会員規約"
+        url: "/p/members"
+      - title: "特定商取引に基づく表記"
+        url: "/p/sctl"
+
+

@@ -21,7 +21,7 @@
 {{ define "main" }}
 
 <div class="bg-white">
-  <div class="measure-wide center pv5-l">
+  <div class="mw7 center">
     <div class="w-100 mb3">
       <article role="article" class="article">
 
@@ -61,26 +61,6 @@
       {{ end }}
 
       <div class="article__body">
-        <!-- {{ with .Params.chat }}
-          {{ if eq .enabled true }}
-            {{ range .item }}
-              <div class="Chat">
-                <div class='Chat__item Box 
-                  {{ if eq .type "oji" }}Chat__item--right Chat__item--oji
-                  {{ else if eq .type "michi" }}Chat__item--left Chat__item--michi
-                  {{ end }}
-                '>
-                  {{ range .content }}
-                  <div class="Chat__item-body">
-                    {{ .text | safeHTML }}
-                  </div>
-                  {{ end }}
-                  <a class="Chat__item-icon" href="/p/sake-daddy-and-michiko-chan/"></a>
-                </div>
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }} -->
 
         {{ with .Params.intro }}
         <div class="">
@@ -98,26 +78,13 @@
 
         {{ .Content }}
 
-        <!-- {{ partial "block/share.html" . }} -->
-        <!-- {{ partial "block/user.html" . }} -->
-
-        <!-- <div class="BannerModule BannerModule--post">
-          <a href="https://goo.gl/Czi2nL" class="BannerModule__link"></a>
-          <div class="BannerModule__image" style="background-image: url(/assets/images/banners/banner-003-small.jpg)"></div>
-          <div class="BannerModule__body">
-            <h6>美味しい日本酒に、毎月出会おう。— 日本酒の定期便「saketaku」</h6>
-            <div class="BannerModule__body-footer">
-              <div class="BannerModule__body-logo"></div>
-            </div>
-          </div>
-        </div> -->
       </div>
-
-      <!-- {{ partial "block/breadcrumb.html" . }} -->
       
     </div>
   </div>
 </div>
+
+{{ partial "block/recent-posts.html" . }}
 
 
 

@@ -24,10 +24,12 @@
 }
 
 
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
 .article__body {
-  & a {
-    color: var(--color-accent);
-  }
   & blockquote {
     border-left: 4px solid var(--color-accent);
     margin: 0;
