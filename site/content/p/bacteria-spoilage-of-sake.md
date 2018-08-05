@@ -1,36 +1,18 @@
-+++
-date = "2017-08-27T19:32:59+09:00"
-lastmod = "2017-09-02T19:32:59+09:00"
-draft = false
-hero = "posts/p/bacteria-spoilage-of-sake/001"
-slug = "bacteria-spoilage-of-sake"
-og_description = "今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」について解説させていただきました。"
-tags = [""]
-categories = ["learn"]
-title = "酒蔵を廃業へ追い込む「火落ち菌」とは"
-author = "admin"
-toc = true
-intro = "<p>今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」についてお伝えさせていただきます。</p>"
-[chat]
-  enabled = true
-  [[chat.item]]
-    type = "michi"
-    [[chat.item.content]]
-      text = "ところで日本酒おじさん。"
-    [[chat.item.content]]
-      text = "酵母や麹についてはよくわかったけど、なにも世の中にはいい菌ばっかりじゃないですよね？インフルエンザウイルスとか、「0-157（おおいちごうなな）」とか、やばい奴らもたくさんいますよね？"
-  [[chat.item]]
-    type = "oji"
-    [[chat.item.content]]
-      text = "おっと、今日はめずらしく鋭いのぉ。"
-    [[chat.item.content]]
-      text = "いかにも、日本酒にも天敵となる菌があり、特に「火落ち菌」という乳酸菌の一種が、蔵を廃業へ追い込むと言われているほどなんじゃよ。"
-  [[chat.item]]
-    type = "michi"
-    [[chat.item.content]]
-      text = "ちょっとコワいけど、知っておきたいのでまたわかりやすく教えてくださいm(_ _)m"
-
-+++
+---
+title: 酒蔵を廃業へ追い込む「火落ち菌」とは
+date: '2017-08-27T19:32:59+09:00'
+lastmod: '2017-09-02T19:32:59+09:00'
+author: admin
+categories:
+  - learn
+tags:
+  - 火落菌
+  - 乳酸菌
+og_description: 今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」について解説させていただきました。
+intro: 今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」についてお伝えさせていただきます。
+hero: posts/p/bacteria-spoilage-of-sake/001
+toc: true
+---
 
 みなさんは火落ちという言葉を耳にしたことはあるでしょうか。
 
