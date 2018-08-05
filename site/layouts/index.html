@@ -1,3 +1,25 @@
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+
+{{ define "meta" }}
+  {{ partial "meta/charset.html" . }}
+  <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+  {{ range .AlternativeOutputFormats }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end }}
+  <meta property="og:title" content="{{ block "title" . }}{{ end }}{{ .Site.Title }}">
+  <meta name="twitter:title" content="{{ block "title" . }}{{ end }}{{ .Site.Title }}">
+  {{ partial "meta/seo.html" . }}
+  {{ partial "meta/browser.html" . }}
+  {{ partial "meta/og.html" . }}
+  {{ partial "meta/favicon.html" . }}
+  {{ partial "meta/webfont.html" . }}
+  {{ partial "meta/single_json_ld.html" . }}
+{{ end }}
+
+
 {{ define "main" }}
 
 
