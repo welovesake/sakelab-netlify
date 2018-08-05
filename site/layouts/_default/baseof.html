@@ -7,6 +7,8 @@
     {{ partial "scripts/analytics.html" . }}
     <link href="/css/main.css" rel="stylesheet">
 
+    
+
   </head>
   <body id="{{ if eq .Kind "home" }}home{{ end }}" class="{{ if eq .Kind "home" }}home{{ end }}">
 
@@ -17,24 +19,40 @@
       {{ partial "block/footer" $.Site.Data.global.footer }} 
 
     </div>
-
     
+    <span class="stamped-product-reviews-badge stamped-main-badge" data-id="yotpo_site_reviews"></span>
+    <div id="stamped-main-widget" 
+    data-product-id="yotpo_site_reviews" 
+    data-name="saketaku" 
+    data-url="https://saketaku.com" 
+    data-image-url="" 
+    data-description="" 
+    data-product-sku=""> 
+    </div>
+
+
     {{ partial "scripts/segment-events.html" . }}
 
     <!-- BEGIN KLAVIYO SIGNUP FORM CODE -->
     <script type="text/javascript">
-    var __klKey = __klKey || 'LMvqNT';
-    (function() {
-    var s = document.createElement('script');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = '//static.klaviyo.com/forms/js/client.js';
-    var x = document.getElementsByTagName('script')[0];
-    x.parentNode.insertBefore(s, x);
-    })();
+      var __klKey = __klKey || 'LMvqNT';
+      (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.klaviyo.com/forms/js/client.js';
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+      })();
     </script>
     <!-- END KLAVIYO SIGNUP FORM CODE -->
-    
+
+
+    <script type="text/javascript" src="https://cdn-stamped-io.azureedge.net/files/widget.min.js"></script>
+    <script type="text/javascript">//<![CDATA[ 
+    StampedFn.init({ apiKey: 'pubkey-Vt9papAAp42MiljDNPU291lzzx5Wzk', storeUrl: 'https://saketaku.com' }); 
+    // ]]></script>
+
     <!-- {{ partial "scripts/scripts.html" . }} -->
 
 

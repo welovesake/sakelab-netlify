@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "ja"
-title = "美味しい日本酒の研究所「sakelab」"
+title = "美味しい日本酒の研究所 by saketaku"
 hasCJKLanguage = true
 paginate = 6
 [taxonomies]
