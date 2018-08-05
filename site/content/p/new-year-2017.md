@@ -4,7 +4,7 @@ tags = [
 ]
 date = "2016-12-29T19:01:20+09:00"
 lastmod = "2017-09-02T19:37:14+09:00"
-category = "learn"
+categories = ["learn"]
 slug = "new-year-2017"
 draft = false
 toc = true

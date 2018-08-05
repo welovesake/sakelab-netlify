@@ -19,13 +19,28 @@
 
 <div class="bg-near-white pv3 pv5-l">
   <div class="mw7 center">
-    {{ range first 6 .Pages }}
+    
+    <header class="mb3 mb5-l tc">
+      <h1 class="b f5">
+        {{ .Title }}
+      </h1>
+    </header>
+
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "p") }}
+
+    {{ range $paginator.Pages }}
       {{ .Render "summary" }}
     {{ end }}
 
     <div class="tc mt3">
-      <a href="/p" class="no-underline">もっと見る</a>
+      {{ range $paginator.Pagers }}
+      <a href="{{ .URL }}" 
+         class="link dib pa3 black-90 lh-solid {{ if eq . $paginator }}black-30 bb bw1{{ end }}">
+        {{ .PageNumber }}
+      </a>
+      {{ end }}
     </div>
+    
   </div>
 </div>
 

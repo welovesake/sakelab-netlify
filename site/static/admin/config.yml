@@ -10,10 +10,14 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/p" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Last Modified", name: "lastmod", widget: "datetime"}
-      - {label: "OG Description", name: "og_description", widget: "text", required: false}
-      - {label: "Intro", name: "intro", widget: "text"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: true}
+      - {label: "Last Modified", name: "lastmod", widget: "datetime", required: true}
+      - {label: "Author", name: "author", widget: "select", options: ["admin", "yuji-yamauchi"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["learn"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["学び"]}
+      - {label: "OG Description", name: "og_description", widget: "text", required: true}
+      - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Hero", name: "hero", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Show Table of Content", name: "toc", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}

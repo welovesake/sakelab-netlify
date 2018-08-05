@@ -1,0 +1,46 @@
+
+
+{{ with .Params.tags }}
+  <div class="mh3 mh0-l mv3">
+    {{ range . }}
+      <a href="/tags/{{ . }}" class="link dim br2 ph3 pv1 mb2 dib bg-black-05 black-90" style="font-size:.7rem">
+        <span># {{ . }}</span>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
+
+
+<div class="mh3 mh0-l mt3 mb5 bt bb b--black-10">
+  <h5 class="pv2 b f5 ma0">
+    saketaku編集部
+  </h5>
+  <p class="f6 mt0">
+    「美味しい」を徹底的に深掘りするのが、saketaku式の日本酒道。当サイトでは、飲み手目線を貫きながら、なおかつ具体的な理論や技法にこだわり、その手法やノウハウを惜しみなく提供していきます。酒米・酒造りの現場に入り、毎年欠かさず日本酒造りを行う日本酒愛溢れるメンバーで構成されています。
+  </p>
+  <ul class="list pa0">
+    <li class="dib">
+      <a href="https://twitter.com/saketaku_san" class="f6">
+        Twitter
+      </a>
+    </li>
+    <span class="black-10 mh1">/</span>
+    <li class="dib">
+      <a href="https://www.facebook.com/saketaku.san/" class="f6">
+        Facebook
+      </a>
+    </li>
+    <span class="black-10 mh1">/</span>
+    <li class="dib">
+      <a href="https://www.instagram.com/saketaku_san/" class="f6">
+        Instagram
+      </a>
+    </li>
+    <span class="black-10 mh1">/</span>
+    <li class="dib">
+      <a href="//saketaku.com" class="f6">
+        美味しい日本酒の定期便「saketaku」
+      </a>
+    </li>
+  </ul>
+</div>

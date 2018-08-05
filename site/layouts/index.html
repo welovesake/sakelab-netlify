@@ -3,17 +3,57 @@
 
 <div class="bg-near-white pv3 pv5-l">
   <div class="mw7 center">
-    {{ range first 6 .Pages }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "p") }}
+
+    {{ range $paginator.Pages }}
       {{ .Render "summary" }}
     {{ end }}
 
     <div class="tc mt3">
-      <a href="/p" class="no-underline">もっと見る</a>
+      {{ range $paginator.Pagers }}
+      <a href="{{ .URL }}" 
+         class="link dib pa3 black-90 lh-solid {{ if eq . $paginator }}black-30 bb bw1{{ end }}">
+        {{ .PageNumber }}
+      </a>
+      {{ end }}
     </div>
+
   </div>
 </div>
 
 
-
+<!-- <section class="bg-black-90 white">
+  <div class="flex-l">
+    <div class="w-100 w-60-l">
+      <div class="lh-solid" style="font-size:0">
+        <img src="http://placekitten.com/1200/900" alt="">
+      </div>
+    </div>
+    <div class="w-100 w-40-l">
+      <div class="pa3 pa5-l">
+        <p class="f4 lh-copy">
+          日本酒を何となく好きになり、自分で酒屋に行っても中々決められず。調べてから買いに行って又悩み。そんな私にとってsaketakuさんに出会えた事は、求めている全てと言って良いと思っています。月末に届くお酒を開ける時、静かに注ぎ、ゆっくり味わう。妻と2人、週末の時間が流れます。同封される鑑定書に書かれてある「ペアリングについて」幾つか書かれてある料理の中から選ばれた肴が出てきます。宝山 純米。嫋やかな女性を想像してしまう酒。嫋やかという言葉。聞かなくなりましたね。妻は嫋やかとはいえませんが、小さく首を傾け注ぐ姿は嫋やかに見えました。 来月も楽しみにしています。
+        </p>
+        <div class="">
+          <div class="f3 b primary">
+            ★ ★ ★ ★ ★
+          </div>
+          <div class="f4">
+            <div class="dib b">
+              Naka Kyoko
+            </div>
+            <div class="dib">
+              <span class="">
+                北海道
+              </span>
+              在住
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
 
 {{ end }}

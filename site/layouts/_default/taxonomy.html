@@ -17,29 +17,37 @@
 
 {{ define "main" }}
 
-<section class="mw7 center">
-  <h2 class="ph3 ph0-l">美味しい日本酒の研究所「sakelab」</h2>
-  {{ range .Pages }}
-    <article class="relative pv4 bt bb b--black-05 ph3 ph0-l">
-      <a href="{{ .RelPermalink }}" class="absolute absolute--fill"></a>
-      <div class="flex flex-column flex-row-ns">
-        <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
-          <h2 class="f3 mt0 lh-title">{{ .Title }}</h2>
-          <p class="f5 lh-copy">
-            {{ .Summary }}
-          </p>
-        </div>
-        {{ with .Params.hero }}
-          <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
-            <img src="/images/{{ . }}.jpg" class="db" alt="{{ $.Title }}">
-          </div>
+
+<div class="bg-near-white pv3 pv5-l">
+  <div class="mw7 center">
+    <header class="mb3 mb5-l tc">
+      <h1 class="b f5">
+        {{ $taxo := index $.Site.Data.taxonomies (lower .Title) }}
+        {{ if eq $taxo "" }}
+          {{ .Title }}
+        {{ else }}
+          {{ $taxo }}
         {{ end }}
-      </div>
-      <time class="f6 db gray">
-        {{ .PublishDate.Format "January 2, 2006" }} 
-      </time>
-    </article>
-  {{ end }}
-</section>
+      </h1>
+    </header>
+
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "p") }}
+
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+
+    <div class="tc mt3">
+      {{ range $paginator.Pagers }}
+      <a href="{{ .URL }}" 
+         class="link dib pa3 black-90 lh-solid {{ if eq . $paginator }}black-30 bb bw1{{ end }}">
+        {{ .PageNumber }}
+      </a>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+
 
 {{ end }}

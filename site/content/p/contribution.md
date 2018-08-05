@@ -1,5 +1,5 @@
 +++
-category = "info"
+categories = ["info"]
 date = "2017-06-05T10:37:48+09:00"
 lastmod = "2017-09-02T10:37:48+09:00"
 og_description = "あなたの「日本酒好き」を文章で表現！サケラボの公式ライターになって、日本酒を一緒に盛り上げませんか？"
@@ -7,7 +7,7 @@ draft = false
 hero = "posts/p/contribution/001"
 leading = "<p>美味しい日本酒の研究所「サケラボ」では、公式ライターを募集しています。あなたのアツい「日本酒愛」を、ぜひこの場でぶつけてみませんか？</p>"
 slug = "contribution"
-tags = ["", ""]
+tags = []
 title = "あなたの「日本酒好き」を文章で表現！サケラボの公式ライター募集中！"
 author = "admin"
 toc = true

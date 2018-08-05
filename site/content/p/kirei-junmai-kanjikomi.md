@@ -6,7 +6,7 @@ hero = "posts/brands/kirei-junmai-kanjikomi/001"
 slug = "kirei-junmai-kanjikomi"
 og_description = "付かず離れずの安心感、ずっと側にいて欲しい王道の純米—亀齢 純米酒 寒仕込み"
 tags = ['広島', '純米', '八反錦']
-category = "brands"
+categories = ["brands"]
 title = "付かず離れずの安心感、ずっと側にいて欲しい王道の純米—亀齢 純米酒 寒仕込み"
 tester = "admin"
 [brand]

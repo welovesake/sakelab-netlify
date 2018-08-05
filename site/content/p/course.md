@@ -6,7 +6,7 @@ hero = "posts/p/course/001"
 slug = "course"
 og_description = "登録不要、無料で楽しめる「たのしい日本酒講座」が開講しました。全12回、目次付きです。"
 tags = [""]
-category = "course"
+categories = ["course"]
 title = "【全12回】たのしい日本酒講座、はじまります！"
 author = "admin"
 toc = true
@@ -55,7 +55,7 @@ saketakuスタッフは、日本酒のソムリエ資格を持つスタッフか
 ---
 
 
-{{< img src="posts/p/course/fun-sake-course" caption="たのしい日本酒講座のポスター。このポスターは<a href='http://bit.ly/2j7fzFU'>コチラ</a>からダウンロードできます。好きに使ってね。" w="1408" h="1994" >}}
+<img src="/images/posts/p/course/fun-sake-course-large.jpg" caption="たのしい日本酒講座のポスター。このポスターは<a href='http://bit.ly/2j7fzFU'>コチラ</a>からダウンロードできます。好きに使ってね。" w="1408" h="1994" >
 
 
 ## 全12回のカリキュラム・目次

@@ -6,18 +6,27 @@
   <nav class="flex flex-column flex-row-l justify-between w-100 border-box pa3 ph5-l">
     <div class="w-100 w-25-l tc tl-l mb2 mb0-l">
       <a href="/" class="b link dim dark-gray f6 f5-ns dib lh-title">
-        美味しい日本酒の研究所
+        美味しい日本酒の研究所 
         <br class='dn-l'>
         「saketaku lab」
       </a>
     </div>
     <div class="w-100 w-50-l tc">
-      <a class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="#" title="About">All</a>
-      <a class="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" href="#" title="Store">Blog</a>
-      <a class="link dim dark-gray f6 f5-ns dib" href="#" title="Contact">Join Us</a>
+      <div class="nowrap overflow-x-auto">
+        {{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+          {{ $taxo := index $.Site.Data.taxonomies (lower .Title) }}
+          <a href="{{.Permalink}}" 
+             class="dim dark-gray f5-ns dib mh1 lh-title"
+             style="font-size:.75rem">
+            {{ $taxo }}
+          </a>
+        {{ end }}
+      </div>
     </div>
     <div class="w-100 w-25-l dn db-l tr">
-      share this!
+      <a href="/p/experts/" class="gray dim">
+        信頼されるサイトとして
+      </a>
     </div>
   </nav>
 
@@ -38,8 +47,10 @@
         「saketaku lab」
       </a>
     </div>
-    <div class="w-100 w-25-l tr">
-      share this!
+    <div class="w-100 w-25-l dn db-l tr">
+      <a href="/p/experts/" class="gray dim">
+        信頼されるサイトとして
+      </a>
     </div>
   </nav>
 

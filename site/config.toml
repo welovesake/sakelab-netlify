@@ -2,3 +2,7 @@ baseurl = "/"
 languageCode = "ja"
 title = "美味しい日本酒の研究所「sakelab」"
 hasCJKLanguage = true
+paginate = 6
+[taxonomies]
+  tag = "tags"
+  category = "categories"

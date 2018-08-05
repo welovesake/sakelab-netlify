@@ -1,5 +1,5 @@
 #TableOfContents {
-  
+
   & ul {
     list-style: none;
     padding: 0;
@@ -30,6 +30,9 @@ a {
 }
 
 .article__body {
+  & p + h2, & p + h3, & p + h4, & p + h5, & p + h6 {
+    margin-top: 3rem;
+  } 
   & blockquote {
     border-left: 4px solid var(--color-accent);
     margin: 0;

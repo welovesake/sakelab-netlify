@@ -1,6 +1,9 @@
 
 <div class="bg-near-white pv3 pv5-l">
   <div class="mw7 center">
+    <h5 class="b f6 tc">
+      こちらもおすすめです
+    </h5>
     {{ range first 3 .Site.Pages }}
       {{ .Render "summary" }}
     {{ end }}
