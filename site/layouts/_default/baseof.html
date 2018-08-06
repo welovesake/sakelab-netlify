@@ -16,22 +16,10 @@
 
       {{ partial "block/header.html" . }}
       {{ block "main" . }}{{ end }}
+      {{ partial "block/stamped-widget.html" . }}
       {{ partial "block/footer" $.Site.Data.global.footer }} 
 
     </div>
-
-
-
-    <span class="stamped-product-reviews-badge stamped-main-badge" data-id="yotpo_site_reviews"></span>
-    <div id="stamped-main-widget" 
-    data-product-id="yotpo_site_reviews" 
-    data-name="saketaku" 
-    data-url="https://saketaku.com" 
-    data-image-url="" 
-    data-description="" 
-    data-product-sku="">
-    </div>
-
 
     {{ partial "scripts/segment-events.html" . }}
 
@@ -48,12 +36,6 @@
       })();
     </script>
     <!-- END KLAVIYO SIGNUP FORM CODE -->
-
-
-    <script type="text/javascript" src="https://cdn-stamped-io.azureedge.net/files/widget.min.js"></script>
-    <script type="text/javascript">//<![CDATA[ 
-    StampedFn.init({ apiKey: 'pubkey-Vt9papAAp42MiljDNPU291lzzx5Wzk', storeUrl: 'https://saketaku.com' }); 
-    // ]]></script>
 
     <!-- {{ partial "scripts/scripts.html" . }} -->
 
