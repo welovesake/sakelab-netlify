@@ -1,18 +1,14 @@
----
-title: 【日本酒を勉強しま酒】BYとは？
-date: "2018-08-06T14:28:39+09:00"
-lastmod: "2018-08-06T14:28:39+09:00"
-author: admin
-categories: course
-tags:
-  - 日本酒を勉強しま酒
-  - BY
-  - 酒造年度
-  - 日本酒
-og_description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, non pariatur velit sit ipsa. Ullam nemo, repudiandae dolorum deleniti, voluptatum amet iusto, iure maiores, quisquam quam nesciunt inventore et illum.'
-toc: false
++++
+title = "【日本酒を勉強しま酒】BYとは？"
+date = "2018-08-06T14:28:39+09:00"
+lastmod = "2018-08-06T14:28:39+09:00"
+author = "admin"
+categories = ["course"]
+tags = ["日本酒を勉強しま酒","BY","酒造年度","日本酒"]
+og_description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, non pariatur velit sit ipsa. Ullam nemo, repudiandae dolorum deleniti, voluptatum amet iusto, iure maiores, quisquam quam nesciunt inventore et illum."
+toc = false
++++
 
----
 **日本酒**のラベルに書かれている**27BY**などの記載。
 
 なんとなく平成の年号っぽいし、平成27年のお酒ね！ということはわかる方も多いと思います。
