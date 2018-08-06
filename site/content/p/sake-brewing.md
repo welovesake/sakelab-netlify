@@ -2,7 +2,7 @@
 date = "2017-08-27T12:03:51+09:00"
 lastmod = "2017-09-02T12:03:51+09:00"
 draft = false
-hero = "posts/p/sake-brewing/001"
+hero = "/images/posts/p/sake-brewing/001.jpg"
 slug = "sake-brewing"
 og_description = "今回は、醸造酒と蒸留酒の違いについて、詳しく迫ってみました。"
 tags = [""]

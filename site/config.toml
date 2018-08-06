@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "美味しい日本酒の研究所 by saketaku"
 hasCJKLanguage = true
 paginate = 6
+enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -10,4 +11,4 @@ paginate = 6
 
 [outputs]
   home = ["HTML", "RSS"]
-  page = ["HTML"]
+  page = ["HTML", "AMP"]

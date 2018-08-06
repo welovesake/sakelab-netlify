@@ -14,147 +14,117 @@
 
 
 {{ define "main" }}
-<div class="Post">
-  <div class="Post__wrapper BoxGrid Box Box--grow">
-    <div class="Post__content Box">
-      <header class="Post__header Box">
-        <h1 class="Post__title">
-          {{ .Title }}
-        </h1>
+<div class="bg-white">
+  <div class="measure-wide center">
+    <div class="w-100 mb3">
+      <article role="article" class="article">
 
-        <div class="Post__meta">
-          {{ if not .Lastmod.IsZero }}
-             <time class="Post__meta-date" datetime='{{ .Page.Lastmod.Format "2006-01-02T15:04:05Z" }}'>更新日: {{ .Page.Lastmod.Format "2006 年 01 月 02 日" }}</time>
-          {{ end }}
-          {{ if .Params.date }}
-            <time class="Post__meta-date" datetime='{{ .Date.Format "2006-01-02T15:04:05Z" }}'>公開日: {{ .Date.Format "2006 年 01 月 02 日" }}</time>
-          {{ end }}
-          {{ with .Params.category }}
-            {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
-            <a href="/category/{{ . }}">
-              <span class="Post__meta-category">{{ $taxo }}</span>
-            </a>
-          {{ end }}
-        </div>
-
-      </header>
-
-      {{ with .Params.hero }}
-
-        <figure class='Post__hero Image'>
-          <amp-img alt="{{ $.Page.Title }}"
-            src="/assets/images/{{ . }}-small.jpg"
-            width="976"
-            height="549"
-            layout="responsive">
-          </amp-img>
-        </figure>
-
-      {{ end }}
-
-      <div class="Post__inner Box">
-        <div class="Post__body Box">
+        <header role="banner" class="pl3 pv3 pr3 measure-wide-ns center-ns tc-ns">
+          
           <div>
-
-            {{ with .Params.chat }}
-              {{ if eq .enabled true }}
-                {{ range .item }}
-                  <div class="Chat">
-                    <div class='Chat__item Box 
-                      {{ if eq .type "oji" }}Chat__item--right Chat__item--oji
-                      {{ else if eq .type "michi" }}Chat__item--left Chat__item--michi
-                      {{ end }}
-                    '>
-                      {{ range .content }}
-                      <div class="Chat__item-body">
-                        {{ .text | safeHTML }}
-                      </div>
-                      {{ end }}
-                      <a class="Chat__item-icon" href="/p/sake-daddy-and-michiko-chan/"></a>
-                    </div>
-                  </div>
-                {{ end }}
+            {{ with .Params.categories }}
+              {{ range . }}
+                {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+                <a href="/categories/{{ . }}" class="link dim br-pill ph3 pv mb2 dib b ba bw1 primary" style="font-size:.7rem">
+                  <span>{{ $taxo }}</span>
+                </a>
               {{ end }}
             {{ end }}
-
-            {{ with .Params.intro }}
-            <div class="Post__body-intro">
-              {{ . | safeHTML }}
-            </div>
-            {{ end }}
-
-            {{ if eq .Params.toc true }}
-              <div class="Post__body-toc">
-                <h3>✍️ もくじ 👩‍🎓</h3>
-                {{ .TableOfContents }}
-              </div>
-            {{ end }}
-
-
-            {{ .Content }}
-
-            {{ partial "block/share.amp.html" . }}
-            
-            {{ partial "block/user.html" . }}
-
-            <div class="BannerModule BannerModule--post">
-              <a href="//b.saketaku.com/b-003-1980/sp?utm_source=owned_media&utm_medium=banner&utm_campaign=b-003-1980" class="BannerModule__link"></a>
-              <div class="BannerModule__image"></div>
-              <div class="BannerModule__body">
-                <h6>美味しい日本酒に、毎月出会おう。— 日本酒の定期便「saketaku」</h6>
-                <div class="BannerModule__body-footer">
-                  <div class="BannerModule__body-logo"></div>
-                </div>
-              </div>
-            </div>
-
-
           </div>
-        </div>
-      </div>
 
-      {{ partial "block/breadcrumb.html" . }}
-      
-    </div>
-  </div>
-</div>
+          <h1 class="lh-title mt1 mb3 f4 f3-ns black-90">
+            {{ .Title }}
+          </h1>
+          <div>
+            <div class="black-30 f6">
+              {{ if not .Lastmod.IsZero }}
+                 <time datetime='{{ .Page.Lastmod.Format "2006-01-02T15:04:05Z" }}'>更新日: {{ .Page.Lastmod.Format "2006 年 01 月 02 日" }}</time>
+              {{ end }}
+              {{ if .Params.date }}
+                <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z" }}'>公開日: {{ .Date.Format "2006 年 01 月 02 日" }}</time>
+              {{ end }}
+            </div>
+          </div>
 
-{{ partial "block/follow.html" . }}
+        </header>
 
+        {{ with .Params.hero }}
 
-<div class="HeadingModule Box">
-    <div class="HeadingModule__wrapper Box BoxGrid Box--row">
-      <div class="HeadingModule__content Box Box--grow Box--row">
-        <h3>
-        最新の記事
-        </h3>        
-      </div>
-    </div>
-</div>
+          <figure class="ma0 mb3">
+            <img class="w-100" src="{{ . }}" alt="{{ $.Title }}">
+          </figure>
 
-<div class="Posts Box">
-  <div class="Posts__wrapper Box BoxGrid">
-    <div class="Posts__content Box Box--row Box--wrap CardModule CardModule--4">
-      <div class="CardModule__wrapper Box Box--grow">
-        <div class="CardModule__content Box Box--row Box--wrap">
+        {{ end }}
 
-          {{ range first 4 .Site.Pages }}
-            {{ .Render "summary.amp" }}
+        <div class="article__body">
+          <!-- {{ with .Params.chat }}
+            {{ if eq .enabled true }}
+              {{ range .item }}
+                <div class="Chat">
+                  <div class='Chat__item Box 
+                    {{ if eq .type "oji" }}Chat__item--right Chat__item--oji
+                    {{ else if eq .type "michi" }}Chat__item--left Chat__item--michi
+                    {{ end }}
+                  '>
+                    {{ range .content }}
+                    <div class="Chat__item-body">
+                      {{ .text | safeHTML }}
+                    </div>
+                    {{ end }}
+                    <a class="Chat__item-icon" href="/p/sake-daddy-and-michiko-chan/"></a>
+                  </div>
+                </div>
+              {{ end }}
+            {{ end }}
+          {{ end }} -->
+
+          {{ with .Params.intro }}
+          <div class="ph3 ph0-l">
+            {{ . | safeHTML }}
+          </div>
           {{ end }}
 
+          {{ if eq .Params.toc true }}
+            <div class="mh3 mh0-l">
+              <div class="bg-near-white pv3 ph5 br2">
+                <h3 class="tc">✍️ もくじ 👩‍🎓</h3>
+                {{ .TableOfContents }}
+              </div>
+            </div>
+          {{ end }}
+
+          <div class="mh3 mh0-l">
+            {{ .Content }}
+          </div>
+
+          {{ partial "block/article-footer-meta.html" . }}
+
+          <!-- {{ partial "block/share.html" . }} -->
+
+          <!-- <div class="BannerModule BannerModule--post">
+            <a href="https://goo.gl/Czi2nL" class="BannerModule__link"></a>
+            <div class="BannerModule__image" style="background-image: url(/assets/images/banners/banner-003-small.jpg)"></div>
+            <div class="BannerModule__body">
+              <h6>美味しい日本酒に、毎月出会おう。— 日本酒の定期便「saketaku」</h6>
+              <div class="BannerModule__body-footer">
+                <div class="BannerModule__body-logo"></div>
+              </div>
+            </div>
+          </div> -->
+
         </div>
-      </div>
 
+      </article>
     </div>
-
-    <div class="Posts__footer Box Box--grow Box--center">
-      <div class="ButtonGroup">
-        <a href="/p" class="Button">
-          もっと見る
-        </a>
-      </div>
-    </div>
-
   </div>
 </div>
+
+
+
+
+<!-- {{ partial "block/follow.html" . }} -->
+
+{{ partial "block/recent-posts.html" . }}
+
+
 {{ end }}

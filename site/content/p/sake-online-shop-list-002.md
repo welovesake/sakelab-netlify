@@ -2,7 +2,7 @@
 date = "2017-09-18T11:00:01+09:00"
 lastmod = "2017-09-19T11:00:01+09:00"
 draft = false
-hero = "posts/places/sake-online-shop-list/002"
+hero = "/images/posts/places/sake-online-shop-list/002.jpg"
 slug = "sake-online-shop-list-002"
 og_description = "全国の美味しい地酒を安心して買えるおすすめ通販サイトを118店分まとめました。このリストがあれば、現地でしか手に入らない日本酒を自宅にいながら注文することができます。"
 tags = [""]

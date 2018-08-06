@@ -2,7 +2,7 @@
 date = "2017-12-05T23:01:32+09:00"
 lastmod = "2017-12-05T23:01:32+09:00"
 draft = false
-hero = "posts/p/course-beginner-003-the-myth-of-the-highest-grade-sake/001"
+hero = "/images/posts/p/course-beginner-003-the-myth-of-the-highest-grade-sake/001.jpg"
 slug = "course-003-the-myth-of-the-highest-grade-sake"
 og_description = ""
 tags = [""]

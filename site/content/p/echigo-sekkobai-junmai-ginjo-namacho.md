@@ -2,7 +2,7 @@
 date = "2017-10-14T22:13:47+09:00"
 lastmod = "2017-10-14T22:13:47+09:00"
 draft = false
-hero = "posts/brands/echigo-sekkobai-junmai-ginjo-namacho/001"
+hero = "/images/posts/brands/echigo-sekkobai-junmai-ginjo-namacho/001.jpg"
 slug = "echigo-sekkobai-junmai-ginjo-namacho"
 og_description = "白桃を頬張るご褒美、あなたにお届け—越後 雪紅梅 純米吟醸 生貯蔵酒"
 tags = ["新潟", '吟醸', '純米']

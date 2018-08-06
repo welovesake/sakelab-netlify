@@ -2,7 +2,7 @@
 date = "2017-10-02T09:58:54-07:00"
 lastmod = "2017-10-02T09:58:54-07:00"
 draft = false
-hero = "posts/p/nigori-and-doburoku/001"
+hero = "/images/posts/p/nigori-and-doburoku/001.jpg"
 slug = "nigori-and-doburoku"
 og_description = "どぶろくとにごり酒の違いについて、歴史を辿りつつ細かく解説しました。"
 tags = [""]

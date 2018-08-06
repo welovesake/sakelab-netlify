@@ -1,20 +1,11 @@
 
-<figure class='
-  Image
-  {{ if eq (.Get "class") "pull-left" }}
-    Image--pullLeft
-  {{ else if eq (.Get "class") "pull-right" }}
-    Image--pullRight
-  {{ else if eq (.Get "class") "bleed" }}
-    Image--bleed
-  {{ end }}
-  '>
-  <amp-img src='/assets/images/{{ .Get "src" }}-small.jpg' alt='{{ .Get "caption" }}' width={{ .Get "w" }} height={{ .Get "h" }} layout="responsive"></amp-img>
+<figure class="ma0 mb4">
+  <amp-img src='{{ .Get "src" }}' alt='{{ .Get "caption" }}' width={{ .Get "w" }} height={{ .Get "h" }} layout="responsive" class="mb2"></amp-img>
 
   {{ if .Get "caption" }}
-  <figcaption>
+  <figcaption class="gray f6 lh-title">
     {{ if .Get "href" }}
-    出典：<a href="{{ .Get "href" }}" target="_blank">{{ .Get "caption" }}</a>
+    <a href="{{ .Get "href" }}" target="_blank">{{ .Get "caption" }}</a>
     {{ else }}
     {{ .Get "caption" | safeHTML }}
     {{ end }}

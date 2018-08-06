@@ -2,7 +2,7 @@
 date = "2017-08-27T19:38:07+09:00"
 lastmod = "2017-09-02T19:38:07+09:00"
 draft = false
-hero = "posts/p/kimoto-and-yamahai/001"
+hero = "/images/posts/p/kimoto-and-yamahai/001.jpg"
 slug = "kimoto-and-yamahai"
 og_description = "今回は日本酒のラベルでよく見る「山廃」「生酛」の違いは？"
 tags = [""]

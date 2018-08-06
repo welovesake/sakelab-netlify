@@ -2,7 +2,7 @@
 date = "2017-12-06T11:59:06+09:00"
 lastmod = "2017-12-06T11:59:06+09:00"
 draft = false
-hero = "posts/p/course-beginner-004-a-letter-for-junmai-lovers/001"
+hero = "/images/posts/p/course-beginner-004-a-letter-for-junmai-lovers/001.jpg"
 slug = "course-004-a-letter-for-junmai-lovers"
 og_description = ""
 tags = [""]

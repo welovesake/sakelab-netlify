@@ -2,7 +2,7 @@
 date = "2017-11-23T20:51:00+09:00"
 lastmod = "2017-11-23T20:51:00+09:00"
 draft = false
-hero = "posts/p/course-beginner-001-do-you-know-what-its-made-of/001"
+hero = "/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/001.jpg"
 slug = "course-beginner-001-do-you-know-what-its-made-of"
 og_description = "ラベルからは読み取れない、日本酒の原料について細かく説明しました。"
 tags = [""]

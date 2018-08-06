@@ -2,7 +2,7 @@
 date = "2017-12-06T12:01:34+09:00"
 lastmod = "2017-12-06T12:01:34+09:00"
 draft = false
-hero = "posts/p/course-beginner-010-yamadanishiki/001"
+hero = "/images/posts/p/course-beginner-010-yamadanishiki/001.jpg"
 slug = "course-010-yamadanishiki"
 og_description = ""
 tags = [""]

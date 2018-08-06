@@ -2,7 +2,7 @@
 date = "2017-10-15T13:17:34+09:00"
 lastmod = "2017-10-15T13:17:34+09:00"
 draft = true
-hero = "posts/sake-diploma-the-primary-test"
+hero = "/images/posts/sake-diploma-the-primary-test.jpg"
 slug = "sake-diploma-the-primary-test"
 og_description = ""
 tags = [""]

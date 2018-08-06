@@ -1,20 +1,11 @@
 
-<figure class='
-  Image
-  {{ if eq (.Get "class") "pull-left" }}
-    Image--pullLeft
-  {{ else if eq (.Get "class") "pull-right" }}
-    Image--pullRight
-  {{ else if eq (.Get "class") "bleed" }}
-    Image--bleed
-  {{ end }}
-  '>
-  <img class="lazyload" src='/assets/images/{{ .Get "src" }}-medium.jpg' data-srcset='/assets/images/{{ .Get "src" }}-small.jpg palm, /assets/images/{{ .Get "src" }}-medium.jpg lap, /assets/images/{{ .Get "src" }}-large.jpg' alt='{{ .Get "caption" }}'>
-  
+<figure class="ma0 mb4">
+  <img src='{{ .Get "src" }}' alt='{{ .Get "caption" }}' width={{ .Get "w" }} height={{ .Get "h" }} layout="responsive" class="mb2"></img>
+
   {{ if .Get "caption" }}
-  <figcaption>
+  <figcaption class="gray f6 lh-title">
     {{ if .Get "href" }}
-    出典：<a href="{{ .Get "href" }}" target="_blank">{{ .Get "caption" }}</a>
+    <a href="{{ .Get "href" }}" target="_blank">{{ .Get "caption" }}</a>
     {{ else }}
     {{ .Get "caption" | safeHTML }}
     {{ end }}

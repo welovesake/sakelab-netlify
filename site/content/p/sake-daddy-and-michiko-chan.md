@@ -2,7 +2,7 @@
 date = "2017-08-08T20:06:42+09:00"
 lastmod = "2017-09-02T20:06:42+09:00"
 draft = false
-hero = "posts/p/sake-daddy-and-michiko/001"
+hero = "/images/posts/p/sake-daddy-and-michiko/001.jpg"
 slug = "sake-daddy-and-michiko-chan"
 og_description = "今回は、サケラボを盛り上げてくれる「日本酒おじさん」と「ミチコさん」に登場頂きました。"
 tags = [""]

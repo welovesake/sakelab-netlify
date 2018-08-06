@@ -2,7 +2,7 @@
 date = "2017-08-27T19:24:29+09:00"
 lastmod = "2017-09-02T19:24:29+09:00"
 draft = true
-hero = "posts/p/taste-of-sake/001"
+hero = "/images/posts/p/taste-of-sake/001.jpg"
 slug = "taste-of-sake"
 og_description = "今回は、日本酒を飲んだ時に感じる味の違いについて、細かく迫ってみました。"
 tags = [""]

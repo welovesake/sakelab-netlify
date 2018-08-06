@@ -2,7 +2,7 @@
 date = "2018-04-03T19:07:03+09:00"
 lastmod = "2018-04-03T19:07:03+09:00"
 draft = false
-hero = "posts/brands/juichimangoku-tokubetsu-honjozo/001"
+hero = "/images/posts/brands/juichimangoku-tokubetsu-honjozo/001.jpg"
 slug = "juichimangoku-tokubetsu-honjozo"
 og_description = ""
 tags = [""]

@@ -2,7 +2,7 @@
 date = "2017-08-26T21:59:16+09:00"
 lastmod = "2017-09-28T21:59:16+09:00"
 draft = false
-hero = "posts/p/sake-molt/001"
+hero = "/images/posts/p/sake-molt/001.jpg"
 slug = "sake-molt"
 og_description = "今回は、日本酒の麹について細かく解説してみました。"
 tags = [""]

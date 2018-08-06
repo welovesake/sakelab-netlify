@@ -2,7 +2,7 @@
 date = "2017-08-27T19:37:14+09:00"
 lastmod = "2017-09-02T19:37:14+09:00"
 draft = false
-hero = "posts/p/name-of-sake-specified-by-process/001"
+hero = "/images/posts/p/name-of-sake-specified-by-process/001.jpg"
 slug = "name-of-sake-specified-by-process"
 og_description = "今回は、製造方法による日本酒の呼び名の違いについて見ていきます。"
 tags = [""]

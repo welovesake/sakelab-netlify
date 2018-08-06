@@ -2,7 +2,7 @@
 date = "2018-01-30T09:08:26+09:00"
 lastmod = "2018-01-30T09:08:26+09:00"
 draft = false
-hero = "posts/brands/iwatehomare-chokuro/001"
+hero = "/images/posts/brands/iwatehomare-chokuro/001.jpg"
 slug = "iwatehomare-chokuro"
 og_description = ""
 tags = [""]

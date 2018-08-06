@@ -2,7 +2,7 @@
 date = "2017-08-08T20:28:56+09:00"
 lastmod = "2017-09-02T20:28:56+09:00"
 draft = true
-hero = "posts/place/sake-shop-list"
+hero = "/images/posts/place/sake-shop-list.jpg"
 slug = "sake-shop-list"
 summary = ""
 description = ""

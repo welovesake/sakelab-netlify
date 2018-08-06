@@ -2,7 +2,7 @@
 date = "2017-11-29T02:55:48+09:00"
 lastmod = "2017-11-29T02:55:48+09:00"
 draft = false
-hero = "posts/p/sake-assistant/banner"
+hero = "/images/posts/p/sake-assistant/banner.jpg"
 slug = "sake-assistant"
 og_description = ""
 tags = [""]

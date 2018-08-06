@@ -2,7 +2,7 @@
 date = "2017-08-27T15:42:02+09:00"
 lastmod = "2017-09-02T15:42:02+09:00"
 draft = false
-hero = "posts/p/master-brewer/001"
+hero = "/images/posts/p/master-brewer/001.jpg"
 slug = "master-brewer"
 og_description = "今回は日本酒における最高製造責任者「杜氏」について、詳しく迫ってみました。"
 tags = [""]

@@ -2,7 +2,7 @@
 date = "2017-10-02T20:56:20-07:00"
 lastmod = "2017-10-02T20:56:20-07:00"
 draft = false
-hero = "posts/p/quick-appetizers-to-pair-with-sake/001"
+hero = "/images/posts/p/quick-appetizers-to-pair-with-sake/001.jpg"
 slug = "quick-appetizers-to-pair-with-sake"
 og_description = ""
 tags = [""]

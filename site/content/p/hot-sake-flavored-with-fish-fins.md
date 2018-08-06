@@ -2,7 +2,7 @@
 date = "2017-10-03T08:01:00-07:00"
 lastmod = "2017-10-03T08:01:00-07:00"
 draft = false
-hero = "posts/p/hot-sake-flavored-with-fish-fins/001"
+hero = "/images/posts/p/hot-sake-flavored-with-fish-fins/001.jpg"
 slug = "hot-sake-flavored-with-fish-fins"
 og_description = "ひれ酒の作り方を詳しく解説しました。美味しい飲み方やおすすめの日本酒もご紹介しています。"
 tags = [""]

@@ -2,7 +2,7 @@
 date = "2017-08-08T18:24:35+09:00"
 lastmod = "2017-09-02T18:24:35+09:00"
 draft = false
-hero = "posts/p/experts/expert"
+hero = "/images/posts/p/experts/expert.jpg"
 slug = "experts"
 og_description = "sakelab（サケラボ）では、日本酒に関する「楽しく・正しく・わかりやすい」情報を重視しているため、さまざまな専門家に監修頂いております。"
 tags = [""]

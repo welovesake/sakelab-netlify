@@ -2,7 +2,7 @@
 date = "2018-04-03T19:13:40+09:00"
 lastmod = "2018-04-03T19:13:40+09:00"
 draft = false
-hero = "posts/brands/asahizuru-junmai-ginjo/001"
+hero = "/images/posts/brands/asahizuru-junmai-ginjo/001.jpg"
 slug = "asahizuru-junmai-ginjo"
 og_description = ""
 tags = [""]

@@ -2,7 +2,7 @@
 date = "2017-10-14T20:32:47+09:00"
 lastmod = "2017-10-14T20:32:47+09:00"
 draft = false
-hero = "posts/brands/senpuku-kura-junmai-daiginjo/001"
+hero = "/images/posts/brands/senpuku-kura-junmai-daiginjo/001.jpg"
 slug = "senpuku-kura-junmai-daiginjo"
 og_description = "春の陽気な空の下、あの人がくれた高貴な青リンゴ—千福 蔵 純米大吟醸"
 tags = ['広島', '純米', '大吟醸', '千本錦']

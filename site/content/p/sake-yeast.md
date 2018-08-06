@@ -2,7 +2,7 @@
 date = "2017-08-27T14:52:11+09:00"
 lastmod = "2017-09-02T14:52:11+09:00"
 draft = false
-hero = "posts/p/sake-yeast/001"
+hero = "/images/posts/p/sake-yeast/001.jpg"
 slug = "sake-yeast"
 og_description = "今回は、日本酒の酵母について細かく解説してみました。"
 tags = [""]

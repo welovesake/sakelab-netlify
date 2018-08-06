@@ -2,7 +2,7 @@
 date = "2018-01-30T09:09:18+09:00"
 lastmod = "2018-01-30T09:09:18+09:00"
 draft = false
-hero = "posts/brands/yumefubuki/001"
+hero = "/images/posts/brands/yumefubuki/001.jpg"
 slug = "yumefubuki"
 og_description = ""
 tags = [""]

@@ -2,7 +2,7 @@
 date = "2017-10-14T22:30:59+09:00"
 lastmod = "2017-10-14T22:30:59+09:00"
 draft = false
-hero = "posts/brands/kaika-tokubetsu-junmai-takekawa-migaki/001"
+hero = "/images/posts/brands/kaika-tokubetsu-junmai-takekawa-migaki/001.jpg"
 slug = "kaika-tokubetsu-junmai-takekawa-migaki"
 og_description = "竹皮に秘められた、クリームチーズ香るまろやかな旨味—開華 特別純米 竹皮みがき"
 tags = ['栃木', '五百万石', '純米']

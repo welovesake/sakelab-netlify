@@ -2,7 +2,7 @@
 date = "2017-09-03T10:03:35+09:00"
 lastmod = "2017-11-09T10:03:35+09:00"
 draft = false
-hero = "posts/p/sake-diploma/001"
+hero = "/images/posts/p/sake-diploma/001.jpg"
 slug = "sake-diploma"
 og_description = "【SAKEDIPLOMA（酒ディプロマ）認定試験対策】今回は主に二次試験について、最低限やっておきたい対策をまとめました。ぜひ試験の傾向を掴みつつ、じっくり対策を練りましょう。"
 tags = [""]

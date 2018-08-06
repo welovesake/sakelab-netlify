@@ -2,7 +2,7 @@
 date = "2017-08-08T20:24:00+09:00"
 lastmod = "2017-09-02T20:24:00+09:00"
 draft = true
-hero = "posts/p/popular-sake-rice/hero"
+hero = "/images/posts/p/popular-sake-rice/hero.jpg"
 slug = "popular-sake-rice"
 og_description = "今回は、美味しい日本酒によく使われる酒米について、詳しく迫ってみました。"
 tags = [""]

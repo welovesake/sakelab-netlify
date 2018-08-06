@@ -2,7 +2,7 @@
 date = "2018-04-03T18:05:01+09:00"
 lastmod = "2018-04-03T18:05:01+09:00"
 draft = false
-hero = "posts/brands/onnajoshu-daiginjo/001"
+hero = "/images/posts/brands/onnajoshu-daiginjo/001.jpg"
 slug = "onnajoshu-daiginjo"
 og_description = ""
 tags = [""]

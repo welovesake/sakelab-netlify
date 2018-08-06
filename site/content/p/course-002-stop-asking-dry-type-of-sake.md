@@ -10,7 +10,7 @@ tags:
 og_description: さて、なぜ人は「辛口のお酒ください」と言ってしまうのでしょう？
 intro: >-
   <p>「辛口のお酒ください！」</p><p>居酒屋でよく聞くフレーズですが、</p><p>今回は、よく話題にされる「辛口のお酒ください」という言葉の罠について、詳しくご説明したいと思います。</p>
-hero: posts/p/course-beginner-002-stop-asking-dry-type-of-sake/001
+hero: /images/posts/p/course-beginner-002-stop-asking-dry-type-of-sake/001.jpg
 toc: true
 ---
 ## 辛口のお酒が求められる理由

@@ -2,7 +2,7 @@
 date = "2017-10-14T22:24:59+09:00"
 lastmod = "2017-10-14T22:24:59+09:00"
 draft = false
-hero = "posts/brands/kirei-junmai-kanjikomi/001"
+hero = "/images/posts/brands/kirei-junmai-kanjikomi/001.jpg"
 slug = "kirei-junmai-kanjikomi"
 og_description = "付かず離れずの安心感、ずっと側にいて欲しい王道の純米—亀齢 純米酒 寒仕込み"
 tags = ['広島', '純米', '八反錦']

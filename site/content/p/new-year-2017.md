@@ -9,7 +9,7 @@ slug = "new-year-2017"
 draft = false
 toc = true
 og_description = "酒蔵の一年は、 収穫されたお米を使って新酒を造り始める 10月から。そのため、10月が和名で「神無月」と呼ばれるのは、「醸成月（かもなしづき）」、つまり新穀で新酒を醸す月からの転声とも言われています。"
-hero = "posts/p/new-year-2016/001"
+hero = "/images/posts/p/new-year-2016/001.jpg"
 title = "2017年酉年、年明けに語りたい酒にまつわる豆知識"
 author = "admin"
 [chat]

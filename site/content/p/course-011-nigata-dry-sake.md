@@ -2,7 +2,7 @@
 date = "2017-12-06T17:06:38+09:00"
 lastmod = "2017-12-06T17:06:38+09:00"
 draft = false
-hero = "posts/p/course-beginner-011-nigata-dry-sake/001"
+hero = "/images/posts/p/course-beginner-011-nigata-dry-sake/001.jpg"
 slug = "course-011-nigata-dry-sake"
 og_description = ""
 tags = [""]

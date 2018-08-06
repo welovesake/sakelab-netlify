@@ -2,7 +2,7 @@
 date = "2017-09-25T21:23:58+09:00"
 lastmod = "2017-09-25T21:23:58+09:00"
 draft = false
-hero = "posts/brands/kakeya/001"
+hero = "/images/posts/brands/kakeya/001.jpg"
 slug = "kakeya-gohyakumangoku-juuu-2017"
 og_description = "原料米の良さが完璧に出された、バタークリームを思わせる味 — KAKEYA 2017"
 tags = ['島根', '純米', '無濾過', '生酒', '原酒', '無濾過生原酒', '五百万石']

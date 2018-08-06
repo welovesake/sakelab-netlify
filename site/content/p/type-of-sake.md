@@ -2,7 +2,7 @@
 date = "2017-08-27T16:14:00+09:00"
 lastmod = "2017-09-02T16:14:00+09:00"
 draft = false
-hero = "posts/p/type-of-sake/001"
+hero = "/images/posts/p/type-of-sake/001.jpg"
 slug = "type-of-sake"
 og_description = "今回は、数多くある日本酒の種類について迫ってみました。"
 tags = [""]

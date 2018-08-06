@@ -2,7 +2,7 @@
 date = "2018-04-03T18:42:46+09:00"
 lastmod = "2018-04-03T18:42:46+09:00"
 draft = false
-hero = "posts/brands/onnajoshu-junmai-saketaku-original/001"
+hero = "/images/posts/brands/onnajoshu-junmai-saketaku-original/001.jpg"
 slug = "onnajoshu-junmai-saketaku-original"
 og_description = ""
 tags = [""]

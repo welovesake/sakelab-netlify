@@ -2,7 +2,7 @@
 date = "2017-10-14T21:56:28+09:00"
 lastmod = "2017-10-14T21:56:28+09:00"
 draft = false
-hero = "posts/brands/gokyo-junmai-ginjo-saitonoshizuku/001"
+hero = "/images/posts/brands/gokyo-junmai-ginjo-saitonoshizuku/001.jpg"
 slug = "gokyo-junmai-ginjo-saitonoshizuku"
 og_description = "山口県を味わう、マルゲリータと頂きたいまろやかな白桃テイスト—五橋 純米吟醸 西都の雫"
 tags = ['山口', '純米', '吟醸', '西都の雫']

@@ -2,7 +2,7 @@
 date = "2018-01-09T22:28:20+09:00"
 lastmod = "2018-01-09T22:28:20+09:00"
 draft = false
-hero = "posts/p/how-glass-can-change-your-taste/001"
+hero = "/images/posts/p/how-glass-can-change-your-taste/001.jpg"
 slug = "how-glass-can-change-your-taste"
 og_description = "ぐい呑みの素晴らしさを伝えるための「酒器による味の変化について」"
 tags = [""]

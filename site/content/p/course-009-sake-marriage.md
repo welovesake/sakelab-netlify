@@ -2,7 +2,7 @@
 date = "2017-12-06T12:01:15+09:00"
 lastmod = "2017-12-06T12:01:15+09:00"
 draft = false
-hero = "posts/p/course-beginner-009-sake-marriage/001"
+hero = "/images/posts/p/course-beginner-009-sake-marriage/001.jpg"
 slug = "course-009-sake-marriage"
 og_description = ""
 tags = [""]

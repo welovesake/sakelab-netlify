@@ -2,7 +2,7 @@
 date = "2018-01-30T09:08:52+09:00"
 lastmod = "2018-01-30T09:08:52+09:00"
 draft = false
-hero = "posts/brands/kamenoo-honjozo-namacho/001"
+hero = "/images/posts/brands/kamenoo-honjozo-namacho/001.jpg"
 slug = "kamenoo-honjozo-namacho"
 og_description = ""
 tags = [""]

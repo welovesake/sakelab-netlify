@@ -10,7 +10,7 @@ tags:
   - 乳酸菌
 og_description: 今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」について解説させていただきました。
 intro: 今回は、酒好きであればぜひ知っておきたい、酒造りの天敵「火落ち菌」についてお伝えさせていただきます。
-hero: posts/p/bacteria-spoilage-of-sake/001
+hero: /images/posts/p/bacteria-spoilage-of-sake/001.jpg
 toc: true
 ---
 

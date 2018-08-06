@@ -2,7 +2,7 @@
 date = "2017-11-23T19:38:27+09:00"
 lastmod = "2017-11-23T19:38:27+09:00"
 draft = false
-hero = "posts/p/course/001"
+hero = "/images/posts/p/course/001.jpg"
 slug = "course"
 og_description = "登録不要、無料で楽しめる「たのしい日本酒講座」が開講しました。全12回、目次付きです。"
 tags = [""]

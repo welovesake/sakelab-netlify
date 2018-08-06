@@ -2,7 +2,7 @@
 date = "2017-08-27T19:42:12+09:00"
 lastmod = "2017-09-02T19:42:12+09:00"
 draft = false
-hero = "posts/p/container-of-sake/001"
+hero = "/images/posts/p/container-of-sake/001.jpg"
 slug = "container-of-sake"
 og_description = "一升瓶や４合瓶など、日本酒容器の種類は様々ですが、今回はその形に至った遍歴を辿ってみたいと思います。"
 tags = ["cup", "cake"]
