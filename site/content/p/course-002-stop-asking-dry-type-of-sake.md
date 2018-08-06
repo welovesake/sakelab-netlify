@@ -27,7 +27,9 @@ toc: true
 
 ## 辛口のお酒が求められる理由
 
-{{< img src="https://lh3.googleusercontent.com/eCWhmHQthgGOYtsfAMLzbPguJX2G3brqiuf0ZdlDj32BwuRVENmzwBgNUZbj4k7qUqDtAphNEOUAGPfMBVzl38PhPldPOtzKBrkYvlyUgqyUqZERkELdMTVdo-BNh8pWiw5y7_K3GdsfNi0dhEBFSJuay3FrUg、https://photos.google.com/" caption="お米を蒸す前に水分量の調整をしている様子" w="4898" h="3265" >}}
+{{< img src="
+
+" caption="お米を蒸す前に水分量の調整をしている様子" w="4898" h="3265" >}}
 
 さて、なぜ人は「辛口のお酒ください」と言ってしまうのでしょう？
 
