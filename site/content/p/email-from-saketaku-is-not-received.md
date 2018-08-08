@@ -1,5 +1,6 @@
 ---
 title: 【重要】saketakuからのメールが届かないお客様へ
+permalink: undelivery-email
 date: '2018-08-08T11:32:41+09:00'
 lastmod: '2018-08-08T11:32:41+09:00'
 author: admin
@@ -7,6 +8,7 @@ categories: info
 tags:
   - ''
 og_description: 【重要】saketakuからのメールが届かないお客様へ
+intro: saketakuからのメールが届かないお客様へ
 toc: false
 ---
 一部のお客様よりsaketakuからのメールが届かない、問い合わせに返事がないとのご報告を頂いております。
