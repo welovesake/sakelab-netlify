@@ -1,6 +1,6 @@
 ---
 title: 【重要】saketakuからのメールが届かないお客様へ
-permalink: undelivery-email
+permalink: email-from-saketaku-is-not-received
 date: '2018-08-08T11:32:41+09:00'
 lastmod: '2018-08-08T11:32:41+09:00'
 author: admin
