@@ -6,7 +6,7 @@ author: admin
 categories: info
 tags:
   - ''
-og_description: info
+og_description: 【重要】saketakuからのメールが届かないお客様へ
 toc: false
 ---
 一部のお客様よりsaketakuからのメールが届かない、問い合わせに返事がないとのご報告を頂いております。
