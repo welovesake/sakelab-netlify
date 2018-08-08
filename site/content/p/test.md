@@ -8,6 +8,7 @@ tags:
   - 学び
 og_description: test
 intro: test
-toc: false
+hero: /images/00100dportrait_00100_burst20180613194249296_cover.jpg
+toc: true
 ---
 test
