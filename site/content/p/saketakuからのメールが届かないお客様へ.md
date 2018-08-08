@@ -7,6 +7,7 @@ categories: info
 tags:
   - ''
 og_description: 【重要】saketakuからのメールが届かないお客様へ
+hero: /images/00100dportrait_00100_burst20171108185915916_cover.jpg
 toc: false
 ---
 一部のお客様よりsaketakuからのメールが届かない、問い合わせに返事がないとのご報告を頂いております。
