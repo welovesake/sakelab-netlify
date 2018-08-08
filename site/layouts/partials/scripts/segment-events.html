@@ -1,7 +1,7 @@
 <script type="text/javascript">
 
 {{ if .IsHome }}
-  window.analytics.track('Viewed Blog', {
+  window.analytics.track('Blog Viewed', {
     pageType: 'Front Page',
     pageTitle: document.title,
     blogTitle: "{{ .Title }}",
@@ -13,7 +13,7 @@
     urlHash: window.location.hash
     });
 {{ else }}
-  window.analytics.track('Viewed Blog', {
+  window.analytics.track('Blog Viewed', {
     pageType: 'Article',
     pageTitle: document.title,
     articleTitle: "{{ .Title }}",
