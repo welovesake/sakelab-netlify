@@ -3,8 +3,7 @@ title: 08. 濃厚な熟成酒が好きなあなたへ
 date: '2017-12-06T12:00:55+09:00'
 lastmod: '2017-12-06T12:00:55+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 古酒好きなあなたは変態。

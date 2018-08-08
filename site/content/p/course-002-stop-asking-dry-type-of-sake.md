@@ -3,8 +3,7 @@ title: 02. 脱「辛口のお酒ください」のススメ
 date: '2017-11-24T12:07:56+09:00'
 lastmod: '2018-07-06T12:07:56+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: さて、なぜ人は「辛口のお酒ください」と言ってしまうのでしょう？

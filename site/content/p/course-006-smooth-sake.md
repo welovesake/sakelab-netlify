@@ -3,8 +3,7 @@ title: 06. 軽快ですっきり飲める日本酒が好きなあなたへ
 date: '2017-12-06T12:00:10+09:00'
 lastmod: '2017-12-06T12:00:10+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 新潟は淡麗辛口ではなく新潟淡麗。

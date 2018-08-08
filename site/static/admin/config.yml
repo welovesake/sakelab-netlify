@@ -9,8 +9,10 @@ collections: # A list of collections the CMS should be able to edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/p" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{permalink}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Permalink", name: "permalink", widget: "string", required: true}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true}
       - {label: "Last Modified", name: "lastmod", widget: "datetime", required: true}
       - {label: "Author", name: "author", widget: "select", options: ["admin", "yuji-yamauchi"]}

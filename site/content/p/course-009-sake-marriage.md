@@ -3,8 +3,7 @@ title: 09. より食事をおいしく。マリアージュの世界へようこ
 date: '2017-12-06T12:01:15+09:00'
 lastmod: '2017-12-06T12:01:15+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: ペアリングとマリアージュは異なると思います。

@@ -3,8 +3,7 @@ title: 03. 「大吟醸、おいしいよね。」そんなあなた、損して
 date: '2017-12-05T23:01:32+09:00'
 lastmod: '2017-12-05T23:01:32+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 大吟醸酒の良さって、一体何なのでしょうか。

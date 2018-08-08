@@ -6,7 +6,7 @@ hero = "/images/posts/p/experts/expert.jpg"
 slug = "experts"
 og_description = "sakelab（サケラボ）では、日本酒に関する「楽しく・正しく・わかりやすい」情報を重視しているため、さまざまな専門家に監修頂いております。"
 tags = [""]
-categories = ["info"]
+categories = "info"
 title = "監修いただいている専門家の方々"
 +++
 

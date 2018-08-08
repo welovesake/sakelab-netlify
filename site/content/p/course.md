@@ -3,8 +3,7 @@ title: 【全12回】たのしい日本酒講座、はじまります！
 date: '2017-11-23T19:38:27+09:00'
 lastmod: '2017-11-23T19:38:27+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 登録不要、無料で楽しめる「たのしい日本酒講座」が開講しました。全12回、目次付きです。

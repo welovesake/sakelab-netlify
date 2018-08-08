@@ -3,8 +3,7 @@ title: 10. 99.9%美味しい？！酒米の王様「山田錦」って何？
 date: '2017-12-06T12:01:34+09:00'
 lastmod: '2017-12-06T12:01:34+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 山田錦は酒米の中でもトップシェア。約30%を占めています

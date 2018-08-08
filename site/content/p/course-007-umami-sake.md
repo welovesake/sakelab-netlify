@@ -3,8 +3,7 @@ title: 07. 米の旨味がはっきりしている日本酒が好きなあなた
 date: '2017-12-06T12:00:39+09:00'
 lastmod: '2017-12-06T12:00:39+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: うま味たっぷり、ほろにがい。

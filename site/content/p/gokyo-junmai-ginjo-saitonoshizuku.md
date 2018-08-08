@@ -6,7 +6,7 @@ hero = "/images/posts/brands/gokyo-junmai-ginjo-saitonoshizuku/001.jpg"
 slug = "gokyo-junmai-ginjo-saitonoshizuku"
 og_description = "山口県を味わう、マルゲリータと頂きたいまろやかな白桃テイスト—五橋 純米吟醸 西都の雫"
 tags = ['山口', '純米', '吟醸', '西都の雫']
-categories = ["brands"]
+categories = "brands"
 title = "山口県を味わう、マルゲリータと頂きたいまろやかな白桃テイスト—五橋 純米吟醸 西都の雫"
 tester = "admin"
 [brand]

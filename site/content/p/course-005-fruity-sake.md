@@ -3,8 +3,7 @@ title: 05. フルーティーな日本酒が好きなあなたへ
 date: '2017-12-06T11:59:45+09:00'
 lastmod: '2017-12-06T11:59:45+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: フルーティーなお酒は酵母の力のおかげです。

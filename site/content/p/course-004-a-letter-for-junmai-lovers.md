@@ -3,8 +3,7 @@ title: 04. 純米しか飲まないから。絶対秘密、本当に美味しい
 date: '2017-12-06T11:59:06+09:00'
 lastmod: '2018-08-06T11:59:06+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 本醸造を毛嫌いしている方は読んでみてくださいね。

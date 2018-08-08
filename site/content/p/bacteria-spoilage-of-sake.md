@@ -3,8 +3,7 @@ title: 酒蔵を廃業へ追い込む「火落ち菌」とは
 date: '2017-08-27T19:32:59+09:00'
 lastmod: '2017-09-02T19:32:59+09:00'
 author: admin
-categories:
-  - learn
+categories: learn
 tags:
   - 火落菌
   - 乳酸菌

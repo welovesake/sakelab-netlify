@@ -1,5 +1,5 @@
 +++
-categories = ["learn"]
+categories = "learn"
 hero = "/images/posts/p/sake-in-japan/001.jpg"
 og_description = "北は北海道、南は沖縄まで。日本酒の地域ごとの特徴を、まとめました。是非新しい日本酒を買う際にご活用ください。なお、地域の特徴と言いましても当然蔵ごとに味は違いますので、一つの目安としてお使いくださいませ。"
 tags = [""]

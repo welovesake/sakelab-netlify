@@ -9,7 +9,7 @@ date = "2016-12-26T09:06:53+09:00"
 lastmod = "2017-10-14T09:06:53+09:00"
 hero = "/images/posts/p/hangover/001.jpg"
 toc = true
-categories = ["learn"]
+categories = "learn"
 author = "admin"
 intro = "<p>飲み会って楽しいですよね。でも、楽しみ過ぎちゃうと、待っているのは二日酔い。。今回は、飲み会シーズン前に知っておきたい、二日酔い対策を詳しくまとめました！</p>"
 [chat]

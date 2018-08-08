@@ -28,12 +28,10 @@
           
           <div>
             {{ with .Params.categories }}
-              {{ range . }}
-                {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
-                <a href="/categories/{{ . }}" class="link dim br-pill ph3 pv mb2 dib b ba bw1 primary" style="font-size:.7rem">
-                  <span>{{ $taxo }}</span>
-                </a>
-              {{ end }}
+              {{ $taxo := index $.Site.Data.taxonomies (printf "%s" .) }}
+              <a href="/categories/{{ . }}" class="link dim br-pill ph3 pv mb2 dib b ba bw1 primary" style="font-size:.7rem">
+                <span>{{ $taxo }}</span>
+              </a>
             {{ end }}
           </div>
 

@@ -5,7 +5,7 @@ title = "開封後、日本酒は何日以内に飲みきるべきか？"
 date = "2016-12-29T18:57:10+09:00"
 lastmod = "2017-10-02T19:24:29+09:00"
 slug = "when-should-you-drink-up-the-sake-bottle"
-categories = ["learn"]
+categories = "learn"
 og_description = "皆さんは、栓を開けてからおよそ何日でお酒を飲み切りますか？saketakuから配信されるお酒に関するニュースレターには、「開栓◯日後が一番美味しく感じられました」と記載されていることもありますよね。開栓後、味わいが変わるのはどうしてなのでしょうか？"
 author = "admin"
 +++

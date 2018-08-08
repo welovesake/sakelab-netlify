@@ -3,8 +3,7 @@ title: 01. バイオテクノロジーの芸術、あまり語られることの
 date: '2017-11-23T20:51:00+09:00'
 lastmod: '2018-08-06T20:51:00+09:00'
 author: admin
-categories:
-  - course
+categories: "course"
 tags:
   - ''
 og_description: ラベルからは読み取れない、日本酒の原料について細かく説明しました。

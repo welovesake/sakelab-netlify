@@ -3,8 +3,7 @@ title: 11. 新潟に「淡麗辛口」が多いわけ。知ると日本酒が楽
 date: '2017-12-06T17:06:38+09:00'
 lastmod: '2018-08-06T17:06:38+09:00'
 author: admin
-categories:
-  - course
+categories: course
 tags:
   - ''
 og_description: 新潟でも旨口を唄う蔵が増えてきました。

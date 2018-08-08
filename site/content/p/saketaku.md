@@ -1,5 +1,5 @@
 +++
-categories = ["info"]
+categories = "info"
 date = "2017-05-03T13:54:28+09:00"
 lastmod = "2017-09-02T14:52:11+09:00"
 og_description = "「saketaku（サケタク）」から、皆さまへのご挨拶。"

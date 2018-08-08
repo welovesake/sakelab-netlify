@@ -3,8 +3,7 @@ title: 可憐なボディと果実感、少し早く訪れた小春日和—旭�
 date: '2018-04-03T19:18:44+09:00'
 lastmod: '2018-04-03T19:18:44+09:00'
 author: admin
-categories:
-  - brands
+categories: brands
 tags:
   - ''
 og_description: >-

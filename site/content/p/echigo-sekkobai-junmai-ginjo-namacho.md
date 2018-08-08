@@ -6,7 +6,7 @@ hero = "/images/posts/brands/echigo-sekkobai-junmai-ginjo-namacho/001.jpg"
 slug = "echigo-sekkobai-junmai-ginjo-namacho"
 og_description = "白桃を頬張るご褒美、あなたにお届け—越後 雪紅梅 純米吟醸 生貯蔵酒"
 tags = ["新潟", '吟醸', '純米']
-categories = ["brands"]
+categories = "brands"
 title = "白桃を頬張るご褒美、あなたにお届け—越後 雪紅梅 純米吟醸 生貯蔵酒"
 tester = "admin"
 [brand]
