@@ -8,6 +8,7 @@ categories:
 tags:
   - ''
 og_description: 新潟でも旨口を唄う蔵が増えてきました。現代では新潟を淡麗辛口という流れは過ぎ去っています。
+intro: 新潟でも旨口を唄う蔵が増えてきました。現代では新潟を淡麗辛口という流れは過ぎ去っています。
 hero: /images/posts/p/course-beginner-011-nigata-dry-sake/001.jpg
 toc: false
 ---
