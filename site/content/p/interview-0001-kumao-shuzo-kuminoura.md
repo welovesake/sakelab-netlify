@@ -11,3 +11,7 @@ og_description: 京都最北端の熊野酒造。「変わらない味」を造�
 toc: false
 ---
 近日公開予定。
+
+
+
+{{< figure src="/images/00100dportrait_00100_burst20171108185915916_cover.jpg" w="300" h="200" caption="this is caption">}}
