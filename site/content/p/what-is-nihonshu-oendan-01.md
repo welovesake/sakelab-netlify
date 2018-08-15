@@ -87,25 +87,25 @@ _自分たち自身が製造に深く関わる_ こと
 
 #### KAKEYA 島根県 竹下本店
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/kakeya.jpg" caption="島根県掛合町で醸された日本酒「KAKEYA」">}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/kakeya.jpg" caption="島根県掛合町で醸された日本酒「KAKEYA」">}}
 
 島根県は雲南市掛合町にある「竹下本店」にて醸している日本酒です。島根県は水がとてもきれいで、中でも掛合町の地下水は素晴らしい美味しさです。第一回目の日本酒造りがこの「竹下本店」との取り組みで、私たちにとってとても思い入れの深い日本酒です。
 
 #### NOTO 石川県 数馬酒造
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/noto.jpg" caption="石川県能登町で醸された日本酒「NOTO」" >}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/noto.jpg" caption="石川県能登町で醸された日本酒「NOTO」" >}}
 
 石川県は能登町の「数馬酒造」にて醸されている日本酒です。世界農業遺産にも選ばれた地でつくられる無農薬無肥料の酒米を使い、新鮮な海産物に合う日本酒を醸しています。（特に地元で取れる「寒ブリ」や「新鮮なイカ」にすっごく合います。）
 
 #### KUNISAKI 大分県 萱島酒造
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/kunisaki.jpg" caption="大分県国東町で醸された日本酒「KUNISAKI」" >}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/kunisaki.jpg" caption="大分県国東町で醸された日本酒「KUNISAKI」" >}}
 
 大分県は国東町にある「萱島酒造」にて醸されている日本酒です。「甘みは旨味」という九州らしさを引き出した、コクのある日本酒です。「すき焼き」や「うなぎの蒲焼」なんかに合わせると最高以外の言葉が思い浮かびません。
 
 #### AGEO 埼玉県 文楽
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/ageo.jpg" caption="埼玉県上尾市で醸された日本酒「AGEO」" >}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/ageo.jpg" caption="埼玉県上尾市で醸された日本酒「AGEO」" >}}
 
 埼玉県は上尾市にある「文楽」にて醸されている日本酒です。埼玉は日本酒のイメージがないと言われますが、実は醸造量は全国で4位。白い花や白桃、すこしチョコレートも感じられる上品な甘みを携えた日本酒です。ぜひ、メロンなどのデザートと一緒に飲んでいただきたい一品です。
 
@@ -117,13 +117,13 @@ _自分たち自身が製造に深く関わる_ こと
 
 **飲み手とのコミュニケーション**
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/coredo.jpg" caption="COREDO日本橋での期間限定ポップアップショップ" >}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/coredo.jpg" caption="COREDO日本橋での期間限定ポップアップショップ" >}}
 
 飲み手とのコミュニケーションでは、主に日本酒の背後にあるストーリーを届けています。例えば、日本橋コレドにて期間限定のポップアップショップを開催したり、国連大学前で開催されるファーマーズマーケットにて毎週末店頭販売を開いたり。ボトルやラベルだけでは伝わらない、日本酒の魅力をお伝えします。
 
 **企業とのコラボレーション**
 
-{{<img src="/images/posts/p/what-is-nihonshu-oendan-01/takashimaya-medium.jpg" caption="髙島屋さんとのコラボレーション商品" w="980" h="980">}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/takashimaya-medium.jpg" caption="髙島屋さんとのコラボレーション商品" w="980" h="980">}}
 
 企業とのコラボレーションでは、日本酒とは全く異なる業種の企業の問題を、日本酒を通して解決するお手伝いをしています。例えば、一緒に取り組ませていただいている「髙島屋」では、百貨店のバイヤーさんが一次産業である田植えから酒造りまで一気通貫して参画し、私たちとともに新しい髙島屋限定ブランドをつくっています。また、アメリカの「スタンフォード大学」とは毎年学生をインターンとして招き入れ日本酒文化を学ぶ場所を提供していたりします。他には、様々な産地の水産品を提供する魚屋さん「サカナバッカ」や「東急ホテル」、「ジャガー・ランドローバー」、「TED Conference」、「Airbnb」など、様々な企業とのコラボも行いました。
 
@@ -136,7 +136,7 @@ _自分たち自身が製造に深く関わる_ こと
 
 #### 日本酒の定期便サービス「saketaku」
 
-{{<img src="banners/banner-004.jpg" caption="美味しい日本酒の定期便サービス「saketaku（サケタク）」" w="980" h="980">}}
+{{<figure src="banners/banner-004.jpg" caption="美味しい日本酒の定期便サービス「saketaku（サケタク）」" w="980" h="980">}}
 
 やっと登場！おすすめ日本酒の定期便サービス「saketaku」です。
 
@@ -168,9 +168,9 @@ _自分たち自身が製造に深く関わる_ こと
 飲み手にとっての *専属日本酒ガイド* となって、  
 ディープな日本酒の世界をご紹介できればと思っています。
 
-{{<img src="/images/posts/p/sake-diploma/appraisal/appraisal-002" caption="お届けする銘柄のテイスティングノート。味わいの変化や、温度帯、うつわの記載もあります。"  w="980" h="980">}}
+{{<figure src="/images/posts/p/sake-diploma/appraisal/appraisal-002" caption="お届けする銘柄のテイスティングノート。味わいの変化や、温度帯、うつわの記載もあります。"  w="980" h="980">}}
 
-{{< img src="/images/posts/p/sake-diploma/appraisal/appraisal-003.jpg" caption="テイスティングノートの詳細" w="980" h="980" >}}
+{{<figure src="/images/posts/p/sake-diploma/appraisal/appraisal-003.jpg" caption="テイスティングノートの詳細" w="980" h="980" >}}
 
 
 サービスの内容や詳細については、また回を改めて詳しくご紹介させていただきます。

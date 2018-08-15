@@ -52,7 +52,7 @@ toc: false
 
 ## 日本酒の原料について
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/004" caption="杜氏が米こうじをつくる様子" w="1200" h="900" >}}
+
 
 さて早速ですが、第一回目をはじめたいと思います。
 
@@ -80,7 +80,7 @@ toc: false
 
 ## 日本酒の定義を簡単に
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/005" caption="醪を「こす」様子。写真は「槽搾り」という昔ながらの製法で、この上に大きな木の蓋を乗せて圧をかけます。" w="1200" h="900" >}}
+{{< figure src="/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/005.jpg" caption="醪を「こす」様子。写真は「槽搾り」という昔ながらの製法で、この上に大きな木の蓋を乗せて圧をかけます。" w="1200" h="900" >}}
 
 どこの国でもそうですが、税金のかかるところには法律があります。ご多分に漏れず、嗜好品である日本酒もそのうちのひとつ。
 
@@ -96,7 +96,7 @@ toc: false
 
 ## ラベルには書かれていないけど、実はこんなものが原料に入ってます
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/003" caption="醪の状態を確認する醸造責任者" w="1200" h="800" >}}
+{{< figure src="/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/003.jpg" caption="醪の状態を確認する醸造責任者" w="1200" h="800" >}}
 
 実際、米と米こうじ・水だけでできるのでしょうか？
 
@@ -112,17 +112,17 @@ toc: false
 
 ## 実はまだある日本酒の添加物たち
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/006" caption="醪の状態確認のためにサンプリングしている様子。" w="1200" h="800" >}}
+{{< figure src="/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/006.jpg" caption="醪の状態確認のためにサンプリングしている様子。" w="1200" h="800" >}}
 
 「酵素剤」や「糖類」「ビタミン類」、場合によってこれらも醪（もろみ）に入れることがあります。こちらも法的な記載義務がないため記述されない要素のひとつ。
 
 生活をしている中で体調不良を起こすことは誰にでもありますよね。体を酷使したり栄養素が足りていなかったりする場合、現代の私たちは滋養強壮剤やサプリメントで自分の体をメンテナンスして、体調を整える。そして体が回復すると、また次の日も元気に頑張れる。
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/007" caption="醪を上から見た様子。現場では「ピチッピチッ」と微生物が呼吸をする音が鳴っています。" w="1200" h="900" >}}
+{{< figure src="/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/007.jpg" caption="醪を上から見た様子。現場では「ピチッピチッ」と微生物が呼吸をする音が鳴っています。" w="1200" h="900" >}}
 
 日本酒造りにおける「お米」や「酵母」も、時として健康状態が悪い場合があります。醪（もろみ）を元気に活動させるのが、酒造りを行う蔵人の役割。日本酒は、自分ひとりではうまく成長できません。まるで人間の子供のように、毎日蔵人たちによって片時も離れずに状態を見守られています。醪（もろみ）の体調が芳しくない場合のみ、「酵素剤」や「ビタミン類」が使用されます。
 
-{{< img src="posts/p/course-beginner-001-do-you-know-what-its-made-of/008" caption="醪を我が子のように見守る蔵人。写真は「櫂入れ」といって、発酵を促したり温度を均一にするために醪全体を混ぜるシーン。" w="1200" h="900" >}}
+{{< figure src="/images/posts/p/course-beginner-001-do-you-know-what-its-made-of/008.jpg" caption="醪を我が子のように見守る蔵人。写真は「櫂入れ」といって、発酵を促したり温度を均一にするために醪全体を混ぜるシーン。" w="1200" h="900" >}}
 
 ## まとめ
 
