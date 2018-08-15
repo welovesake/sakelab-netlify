@@ -14,4 +14,6 @@ toc: false
 
 
 
-{{< figure src="/images/00100dportrait_00100_burst20171108185915916_cover.jpg" w="300" h="200" caption="this is caption">}}
+
+
+{{< figure src="/images/00100dportrait_00100_burst20180613194249296_cover.jpg" w="300" h="200" caption="旅でお世話になった「鳥じん」さん">}}
