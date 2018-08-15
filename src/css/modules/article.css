@@ -39,7 +39,10 @@ a {
     padding: 1rem 2rem;
     background: rgba(0,0,0,.02);
   }
-  figure img {
+  & h2, & h3, & h4, & h5 {
+    line-height: 1.25;
+  }
+  & figure img {
     height: 100%;
   }
   & hr {
