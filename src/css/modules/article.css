@@ -39,6 +39,9 @@ a {
     padding: 1rem 2rem;
     background: rgba(0,0,0,.02);
   }
+  img {
+    height: 100%;
+  }
   & hr {
     border: none;
     height: 1px;
