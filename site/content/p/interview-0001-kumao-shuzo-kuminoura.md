@@ -12,4 +12,14 @@ toc: false
 ---
 近日公開予定。
 
-{{< figure src="/images/00100dportrait_00100_burst20180613194249296_cover.jpg" w="300" h="200" caption="今回の旅でお邪魔した「鳥じん」さん">}}
+
+
+hoghoghoege
+
+
+
+hogehoge
+
+
+
+{{< figure src="/images/00100dportrait_00100_burst20180613194249296_cover.jpg" w="300" h="200" caption="旅でお世話になった「鳥じん」さん">}}
