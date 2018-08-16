@@ -2,7 +2,7 @@
 title: 【保存版】美味しい日本酒が買えるおすすめの酒屋さんをまとめてみた 003
 permalink: sake-online-shop-list-003
 date: '2017-09-18T11:01:55+09:00'
-lastmod: '2017-09-23T11:01:55+09:00'
+lastmod: '2018-08-16T11:01:55+09:00'
 author: admin
 categories: shop
 tags:
