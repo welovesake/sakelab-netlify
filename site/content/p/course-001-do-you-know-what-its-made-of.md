@@ -2,7 +2,7 @@
 title: 01. バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について
 permalink: entries/course-001-do-you-know-what-its-made-of
 date: '2017-11-23T20:51:00+09:00'
-lastmod: '2018-08-06T20:51:00+09:00'
+lastmod: '2018-08-17T20:51:00+09:00'
 author: admin
 categories: course
 tags:
