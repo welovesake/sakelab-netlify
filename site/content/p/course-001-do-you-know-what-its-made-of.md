@@ -1,9 +1,10 @@
 ---
 title: 01. バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について
+permalink: entries/course-001-do-you-know-what-its-made-of
 date: '2017-11-23T20:51:00+09:00'
 lastmod: '2018-08-06T20:51:00+09:00'
 author: admin
-categories: "course"
+categories: course
 tags:
   - ''
 og_description: ラベルからは読み取れない、日本酒の原料について細かく説明しました。
@@ -11,8 +12,6 @@ intro: ''
 hero: /images/posts/p/course-beginner-001-do-you-know-what-its-made-of/001.jpg
 toc: false
 ---
-.
-
 突然ですが、、、あなたは、日本酒がお好きですか？
 
 首を横に振っているあなた、ごめんなさい！誤ったリンクを踏んでしまったようです。。人生は思ったより短いです、そっとこのページを閉じることをオススメします。
@@ -52,7 +51,7 @@ toc: false
 
 ## 日本酒の原料について
 
-
+{{< figure src="/images/img_1196.jpg" w="1024" h="768" caption="キレイなお水と栄養満点な土からできるお米はとても質の高いものになります。">}}
 
 さて早速ですが、第一回目をはじめたいと思います。
 
