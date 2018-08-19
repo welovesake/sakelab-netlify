@@ -165,7 +165,7 @@ toc: true
 
 ## 「楽しい日本酒講座・全12回」の目次
 
-あなたの常識をぶった切る、日本酒の本当のはなし。
+### あなたの常識をぶった切る、日本酒の本当のはなし。
 
 1. [バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について](/p/course-beginner-001-do-you-know-what-its-made-of)
 2. [脱「辛口のお酒ください」のススメ](/p/course-beginner-002-stop-asking-dry-type-of-sake)
