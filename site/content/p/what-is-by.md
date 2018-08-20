@@ -10,10 +10,9 @@ tags:
   - BY
   - 酒造年度
   - 日本酒
-og_description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, non pariatur
-  velit sit ipsa. Ullam nemo, repudiandae dolorum deleniti, voluptatum amet
-  iusto, iure maiores, quisquam quam nesciunt inventore et illum.
+og_description: 日本酒の「BY」という表記について
+intro: 日本酒の「BY」という表記について
+hero: /images/by.jpg
 toc: false
 ---
 
