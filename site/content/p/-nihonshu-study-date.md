@@ -11,10 +11,6 @@ og_description: 「日本酒って賞味期限はないの？」というよく�
 hero: /images/date.jpg
 toc: false
 ---
-{{< figure src="/images/date.jpg" w="1024" h="999" caption="日本酒の製造年月日">}}
-
-
-
 # **「日本酒って賞味期限はないの？」**
 
 これはよくある質問ですが、はっきりと言います！
