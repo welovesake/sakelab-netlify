@@ -1,6 +1,6 @@
 ---
 title: 【日本酒を勉強しま酒】日本酒とは？日本酒の定義。
-permalink: '-nihonshu-study-what-is-nihonshu'
+permalink: nihonshu-study-what-is-nihonshu
 date: '2018-08-20T12:21:41+09:00'
 lastmod: '2018-08-20T12:21:41+09:00'
 author: admin
