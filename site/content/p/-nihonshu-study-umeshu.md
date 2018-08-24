@@ -1,8 +1,8 @@
 ---
 title: 【日本酒を勉強しま酒】梅酒って日本酒？
-permalink: '-nihonshu-study-umeshu'
+permalink: nihonshu-study-umeshu
 date: '2018-08-20T11:50:51+09:00'
-lastmod: '2018-08-20T11:50:51+09:00'
+lastmod: '2018-08-24T11:50:51+09:00'
 author: admin
 categories: learn
 tags:
