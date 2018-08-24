@@ -1,6 +1,6 @@
 ---
 title: 【日本酒を勉強しま酒】吟醸？大吟醸？
-permalink: '-nihonshu-study-tokuteimeisho'
+permalink: nihonshu-study-tokuteimeisho
 date: '2018-08-20T13:47:48+09:00'
 lastmod: '2018-08-20T13:47:48+09:00'
 author: admin
