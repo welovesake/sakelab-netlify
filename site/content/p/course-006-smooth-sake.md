@@ -2,7 +2,7 @@
 title: 06. 軽快ですっきり飲める日本酒が好きなあなたへ
 permalink: course-006-smooth-sake/
 date: '2017-12-06T12:00:10+09:00'
-lastmod: '2017-12-06T12:00:10+09:00'
+lastmod: '2018-08-25T12:00:10+09:00'
 author: admin
 categories: course
 tags:
@@ -126,7 +126,6 @@ toc: true
 今回は淡麗なお酒についての紹介だったので次回は濃醇な味わいについて。
 
 ## 「楽しい日本酒講座・全12回」の目次
-><p><p/>
 > ### あなたの常識をぶった切る、日本酒の本当のはなし。
 >
 > 1. [バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について](/p/course-beginner-001-do-you-know-what-its-made-of)\
