@@ -1,5 +1,5 @@
 ---
-title: 酒蔵取材①京都・熊野酒造
+title: 日本酒と勉強〜京都・熊野酒造編〜
 permalink: interview-0001/kumao-shuzo-kuminoura
 date: '2018-08-13T14:59:43+09:00'
 lastmod: '2018-08-13T14:59:43+09:00'
