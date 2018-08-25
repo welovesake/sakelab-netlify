@@ -174,21 +174,21 @@ toc: true
 お楽しみに！
 
 ## 「楽しい日本酒講座・全12回」の目次
-
+><p><p/>
 >### あなたの常識をぶった切る、日本酒の本当のはなし。
 >
 >1. [バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について](/p/course-beginner-001-do-you-know-what-its-made-of/)\
 >2. [脱「辛口のお酒ください」のススメ](/p/course-beginner-002-stop-asking-dry-type-of-sake/)\
 >3. [「大吟醸美味しいよね。」そんなあなた、損してます。](/p/course-003-the-myth-of-the-highest-grade-sake/)(←イマココ)\
 >4. [「純米しか飲まないから。」絶対秘密、おいしい本醸造教えます。](/p/course-004-a-letter-for-junmai-lovers/)  
->
+><p><p/>
 >### 「美味しい」と感じる、日本酒の味を分解してみよう。
 >
 >5. [フルーティな日本酒が好きなあなたへ](/p/course-005-fruity-sake/)\
 >6. [軽快な日本酒が好きなあなたへ](/p/course-006-smooth-sake/)\
 >7. [米の旨味がはっきりしている日本酒が好きなあなたへ](/p/course-007-umami-sake/)\
 >8. [濃厚な熟成酒が好きなあなたへ](/p/course-008-aged-sake/)  
->
+><p><p/>
 >### ようこそ、日本酒のディープな世界へ！初心者卒業までの最後の一歩。
 >
 >9. [より食事を美味しく。マリアージュの世界へようこそ。](/p/course-009-sake-marriage/)\
