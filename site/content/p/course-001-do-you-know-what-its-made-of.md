@@ -143,7 +143,7 @@ toc: true
 
 [「たのしい日本酒講座」の目次](//lab.saketaku.com/p/course/)はコチラ。
 
-次へ「2. [脱「辛口のお酒ください」のススメ](/p/course-beginner-002-stop-asking-dry-type-of-sake)」
+次へ「2. [脱「辛口のお酒ください」のススメ](/p/course-beginner-002-stop-asking-dry-type-of-sake/)」
 
 居酒屋で日本酒を注文するとき好みを伝えていますか？\
 「辛口ください！」だけでは好みの味が飲める可能性が低くなってしまいます。\
