@@ -1,29 +1,19 @@
-+++
-date = "2017-10-02T09:58:54-07:00"
-lastmod = "2017-10-02T09:58:54-07:00"
-draft = false
-hero = "/images/posts/p/nigori-and-doburoku/001.jpg"
-slug = "nigori-and-doburoku"
-og_description = "どぶろくとにごり酒の違いについて、歴史を辿りつつ細かく解説しました。"
-tags = [""]
-categories = "learn"
-title = "「どぶろく・にごり酒」とは？わかりやすく解説しました"
-author = "admin"
-toc = false
-intro = "<p>今回は「どぶろくとは？」「にごり酒とどう違うの？」というご質問をいただきましたので、それぞれ細かく見ていきたいと思います。</p>"
-[chat]
-  enabled = true
-  [[chat.item]]
-    type = "michi"
-    [[chat.item.content]]
-      text = "ところで日本酒おじさん。"
-    [[chat.item.content]]
-      text = "「どぶろく」ってよく聞くけど、「にごり酒」とはまた違ったものなの？見た目は、すっごく似てるけど。"
-  [[chat.item]]
-    type = "oji"
-    [[chat.item.content]]
-      text = "ふむふむ、いい着眼点じゃな。お教えしましょう。"
-+++
+---
+title: 「どぶろく・にごり酒」とは？わかりやすく解説しました
+permalink: nigori-and-doburoku/
+date: '2017-10-02T09:58:54-07:00'
+lastmod: '2018-08-28T01:58:54+09:00'
+author: admin
+categories: learn
+tags:
+  - ''
+og_description: >-
+  どぶろくとにごり酒の違いについて、歴史を辿りつつ細かく解説しました。白く濁ったお酒で見た目も同じなので同じものであるイメージを持っていませんか？実は全く異なるもので、安易に造ってしまうと違法に
+  なってしまいます。ルールを知れば誰でも違いがわかります。日本酒の定義と酒税法。醪の状態なのか、濾しているのか。味わいとしてはどのように異なるのか。コーヒーをドリップすることを考えたときにフィルターを噛ませていますよね。この行為が「濾す」ということになります。詳しく、わかりやすく見ていきましょう！
+intro: <p>今回は「どぶろくとは？」「にごり酒とどう違うの？」というご質問をいただきましたので、それぞれ細かく見ていきたいと思います。</p>
+hero: /images/posts/p/nigori-and-doburoku/001.jpg
+toc: false
+---
 
 ## 「どぶろく」と「にごり酒」の違い
 
