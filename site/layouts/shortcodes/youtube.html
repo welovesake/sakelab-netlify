@@ -1,6 +1,8 @@
 
 <figure class="ma0 mb4">
-  <iframe src='//www.youtube.com/embed/{{ .Get "id" }}{{ if (.Get "start") }}?start={{ .Get "start" }}{{ end }}?rel=0&controls=0&showinfo=0&autoplay=0"' frameborder='0' allowfullscreen></iframe>
+  <div class="aspect-ratio aspect-ratio--16x9 mb3">
+    <iframe class="aspect-ratio--object" src='//www.youtube.com/embed/{{ .Get "id" }}{{ if (.Get "start") }}?start={{ .Get "start" }}{{ end }}?rel=0&controls=0&showinfo=0&autoplay=0"' frameborder='0' allowfullscreen></iframe>
+  </div>
   <figcaption class="gray f6 lh-title">
     {{ if .Get "caption" }}
       {{ .Get "caption" }}

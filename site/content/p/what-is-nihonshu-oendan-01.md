@@ -123,7 +123,7 @@ _自分たち自身が製造に深く関わる_ こと
 
 **企業とのコラボレーション**
 
-{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/takashimaya-medium.jpg" caption="髙島屋さんとのコラボレーション商品" w="980" h="980">}}
+{{<figure src="/images/posts/p/what-is-nihonshu-oendan-01/takashimaya-medium.jpg" caption="髙島屋さんとのコラボレーション商品">}}
 
 企業とのコラボレーションでは、日本酒とは全く異なる業種の企業の問題を、日本酒を通して解決するお手伝いをしています。例えば、一緒に取り組ませていただいている「髙島屋」では、百貨店のバイヤーさんが一次産業である田植えから酒造りまで一気通貫して参画し、私たちとともに新しい髙島屋限定ブランドをつくっています。また、アメリカの「スタンフォード大学」とは毎年学生をインターンとして招き入れ日本酒文化を学ぶ場所を提供していたりします。他には、様々な産地の水産品を提供する魚屋さん「サカナバッカ」や「東急ホテル」、「ジャガー・ランドローバー」、「TED Conference」、「Airbnb」など、様々な企業とのコラボも行いました。
 
@@ -136,7 +136,7 @@ _自分たち自身が製造に深く関わる_ こと
 
 #### 日本酒の定期便サービス「saketaku」
 
-{{<figure src="banners/banner-004.jpg" caption="美味しい日本酒の定期便サービス「saketaku（サケタク）」" w="980" h="980">}}
+{{<figure src="/images/banners/banner-002-medium.jpg" caption="美味しい日本酒の定期便サービス「saketaku（サケタク）」">}}
 
 やっと登場！おすすめ日本酒の定期便サービス「saketaku」です。
 
@@ -168,9 +168,7 @@ _自分たち自身が製造に深く関わる_ こと
 飲み手にとっての *専属日本酒ガイド* となって、  
 ディープな日本酒の世界をご紹介できればと思っています。
 
-{{<figure src="/images/posts/p/sake-diploma/appraisal/appraisal-002" caption="お届けする銘柄のテイスティングノート。味わいの変化や、温度帯、うつわの記載もあります。"  w="980" h="980">}}
-
-{{<figure src="/images/posts/p/sake-diploma/appraisal/appraisal-003.jpg" caption="テイスティングノートの詳細" w="980" h="980" >}}
+{{<figure src="/images/posts/p/sake-diploma/appraisal/appraisal-003.jpg" caption="テイスティングノートの詳細" >}}
 
 
 サービスの内容や詳細については、また回を改めて詳しくご紹介させていただきます。
