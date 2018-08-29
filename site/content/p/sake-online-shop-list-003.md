@@ -26,7 +26,6 @@ aliases:
 ## 神奈川県
 ### 田島屋酒店
 
-{{< instagram BNL1SXEhd6r hidecaption >}}
 
 住所: 神奈川県横浜市金沢区釜利谷東2-16-34  
 通販サイト: http://www.tajima-ya.com  
@@ -35,7 +34,6 @@ aliases:
 
 ### お酒のアトリエ吉祥
 
-{{< instagram BQSRk4HhFt2 hidecaption >}}
 
 住所: 神奈川県川崎市高津区溝口1-4-1  
 ウェブサイト: http://jizake-ya.com  
@@ -46,7 +44,6 @@ aliases:
 
 ### 石澤酒店
 
-{{< instagram xNsDC5LXKU hidecaption >}}
 
 住所: 神奈川県川崎市 中原区木月3丁目10-17 サン・ライフ1F  
 ウェブサイト: http://www2.odn.ne.jp/~had02820/  
@@ -56,7 +53,6 @@ TEL: 044-411-7293
 
 ### 地酒や たけくま酒店
 
-{{< instagram BTX9o-mlcbJ hidecaption >}}
 
 住所: 川崎市幸区紺屋町92番地  
 ウェブサイト: http://takekuma.co.jp  
@@ -75,7 +71,6 @@ TEL:  044-522-0022
 
 ### 掛田商店
 
-{{< instagram BR1-CUgFgXs hidecaption >}}
 
 住所: 神奈川県 横須賀市鷹取2丁目5-6  
 ウェブサイト: http://www.kakeda.com  
@@ -116,7 +111,6 @@ TEL: 055-222-6521
 ## 長野県
 ### 酒乃生坂屋
 
-{{< instagram BNIZIHpgyTG hidecaption >}}
 
 住所: 長野県千曲市屋代１８５２−１  
 ウェブサイト: http://ikusakaya.com  
@@ -129,7 +123,6 @@ TEL: 026-272-0143
 ## 新潟県
 ### 早福酒食品店
 
-{{< instagram BYPXCXABUSk hidecaption >}}
 
 住所: 新潟県新潟市中央区関屋本村町２丁目３０５  
 ウェブサイト: http://nttbj.itp.ne.jp/0252668101/  
@@ -142,7 +135,6 @@ TEL: 025-266-8101
 
 ### カネセ商店
 
-{{< instagram BXrKzp2n_OL hidecaption >}}
 
 住所: 新潟県長岡市与板町与板乙１４３１−１  
 通販サイト: http://www.kanese.com  
@@ -161,7 +153,6 @@ TEL: 0120-271-488
 ## 福井県
 ### 越前酒乃店はやし本店
 
-{{< instagram BT54tpsj3F- hidecaption >}}
 
 住所: 福井県越前市平和町12-13  
 ウェブサイト: http://www.sakenomise.com  
@@ -173,7 +164,6 @@ TEL: 0778-22-1281
 ## 静岡県
 ### ヴィノスやまざき 静岡本店
 
-{{< instagram BGoqz1FTBd4 hidecaption >}}
 
 ワイン専門店ながら、日本酒も数多く取り揃えられているお店です。品川の駅ナカにもあるので、ご存じの方も多いかもしれません。
 
@@ -186,7 +176,6 @@ TEL: 0778-22-1281
 
 ### 久保山酒店
 
-{{< instagram BXITFvZhRqp hidecaption >}}
 
 住所: 静岡県静岡市清水区庵原町１６９−１  
 通販サイト: http://www.kubo-yama.com  
@@ -199,7 +188,6 @@ TEL: 054-366-7122
 
 ### 篠田酒店
 
-{{< instagram BL3OriqFmoZ hidecaption >}}
 
 「蔵元さんが心を込め、ひと手間かけ造り上げたお酒というものを、厳重な品質管理で最善の状態でお客様にお渡しして自分自身が感動を頂いたお酒を是非お客様にもそのまま味わって頂きたい」と言ういう想いで運営されている酒屋さんです。感動するために日本酒を提供する、という酒屋そのもののコンセプトがとても素晴らしいので、一度ホームページを訪れてみて下さい。
 
@@ -213,7 +201,6 @@ TEL: 054-352-5047
 
 ### 酒舗よこぜき
 
-{{< instagram BPrBOe9hBSD hidecaption >}}
 
 王祿の特約店。
 
@@ -246,7 +233,6 @@ TEL: 055-962-5738
 ## 三重県
 ### 酒のお店 もりした
 
-{{< instagram BTsEuXLlM6R hidecaption >}}
 
 とてもきれいなサイトで、酒屋さんにしては珍しく、飲食店向けのメニュー作成までやられています。取扱銘柄もとても多いのでまずはサイトをご覧ください。
 
@@ -268,7 +254,6 @@ TEL: 059-382-0205
 ## 大阪府
 ### 山中酒の店
 
-{{< instagram BYKw_JmgEyq hidecaption >}}
 
 関西といえば「山中酒の店」というぐらい人気のお店。あの王祿が所狭しとマイナス五度の冷蔵庫に眠っています。通販サイトもさすがの充実ぶりです。
 
@@ -302,7 +287,6 @@ TEL: 072-922-3875
 
 ### 乾酒店
 
-{{< instagram BBFCIAGAKI8 hidecaption >}}
 
 住所: 大阪府八尾市 恩智中町３丁目６８  
 ウェブサイト: http://www.inuisaketen.com  
@@ -313,7 +297,6 @@ TEL:  072-941-2118
 
 ### 掬正
 
-{{< instagram BMVl9nkhzl2 hidecaption >}}
 
 住所: 大阪府大阪狭山市金剛１丁目７−８  
 通販サイト: http://kikusei-jizake.shop-pro.jp  
@@ -325,7 +308,6 @@ TEL: 072-366-6660
 
 ### 酒のやまもと
 
-{{< instagram 3lR-AQmrmR hidecaption >}}
 
 住所: 大阪府枚方市招提中町１丁目７−７
 ウェブサイト: http://sakenoyamamoto.main.jp/tenpo_hirakata.html  
@@ -335,7 +317,6 @@ TEL: 072-857-0082
 
 ### 白菊屋
 
-{{< instagram BH13rM8BHDx hidecaption >}}
 
 様々なアプローチで日本酒ファンを広げていらっしゃるお店。「二十歳になって初めて飲む日本酒」というコンセプトで自らが造った酒『19歳の酒』と言うプロジェクトを企画されています。
 
@@ -378,7 +359,6 @@ TEL: 075-982-8935
 
 ### 名酒館タキモト
 
-{{< instagram BDfMT40SBNm hidecaption >}}
 
 住所: 京都府京都市下京区六条通高倉東入升屋町６０  
 ウェブサイト: http://www.eonet.ne.jp/~takimoto/  
@@ -399,7 +379,6 @@ TEL: 078-411-1987
 
 ### 岩井寿商店
 
-{{< instagram BV00cuaFZJ0 hidecaption >}}
 
 住所: 兵庫県明石市松江７５９−１２  
 通販サイトサイト: http://www.iwaikotobuki.com  
@@ -412,7 +391,6 @@ TEL: 078-411-1987
 
 岡山で圧倒的シェアを誇るお店。店主が選りすぐった、こだわりのお酒を買うならここ。
 
-{{< instagram BV3lOzPAkY8 hidecaption >}}
 
 住所: 岡山県岡山市南区新保１１３０−１  
 ウェブサイト: http://www.wstakeda.com  
@@ -421,7 +399,6 @@ TEL: 086-801-7650
 ## 広島県
 ### 酒商山田本店
 
-{{< instagram BO1OLd_Bab3 hidecaption >}}
 
 住所: 広島県広島市南区宇品海岸2丁目10番7号  
 ウェブサイト: http://sake-japan.jp/  
@@ -433,7 +410,6 @@ TEL: 082-251-1013
 
 ### 胡町 大和屋酒舗
 
-{{< instagram BQw_-JTBkfZ hidecaption >}}
 
 住所: 広島県広島市 中区胡町4−3  
 ウェブサイト: http://www.e-yamatoya.jp  
@@ -445,7 +421,6 @@ TEL: 082-251-1013
 ## 島根県
 ### 酒の槇戸天狗堂
 
-{{< instagram BSnNtszB2vs hidecaption >}}
 
 住所: 島根県松江市東奥谷町３７３  
 ウェブサイト: http://www.makido-tengudo.jp  
@@ -456,7 +431,6 @@ TEL: 082-251-1013
 
 ### 酒舗いたもと
 
-{{< instagram BBW9Bm4RXwe hidecaption >}}
 
 住所: 島根県浜田市熱田町７０９−３  
 ウェブサイト: http://itamoto.co.jp/html/  
@@ -467,7 +441,6 @@ TEL: 0855-27-3883
 ## 山口県
 ### 原田酒舗
 
-{{< instagram 6d2yc4w5il hidecaption >}}
 
 住所: 山口県山口市 湯田温泉１丁目１１−２３  
 ウェブサイト: http://www.haradashuho.com  
@@ -477,7 +450,6 @@ TEL: 083-922-1500
 
 ### 松原酒店
 
-{{< instagram BXhyBAznnwO hidecaption >}}
 
 住所: 山口県宇部市東本町1丁目9-15  
 ウェブサイト: http://sake-matubara.com/  
@@ -488,7 +460,6 @@ TEL: 0836-21-1216
 
 ### 礒田酒店
 
-{{< instagram BV6wVubAk60 hidecaption >}}
 
 住所: 山口県岩国市周東町下久原１２８２  
 ウェブサイト: http://www.sake-isoda.jp  
@@ -498,7 +469,6 @@ TEL: 0827-84-0017
 
 ### 梶原酒店
 
-{{< instagram BZDgUlIlCk3 hidecaption >}}
 
 住所: 山口県下関市田中町１２−８  
 ウェブサイト: https://www.rakuten.co.jp/kajiwara/  
@@ -507,7 +477,6 @@ TEL: 0827-84-0017
 
 ### 中嶋酒店
 
-{{< instagram BXsTZ1UDP7K hidecaption >}}
 
 住所: 山口県周南市 大字久米旭ケ丘984  
 ウェブサイト: http://nakashima-saketen.com  
@@ -520,7 +489,6 @@ TEL: 0827-84-0017
 ## 香川県
 ### ふくしま屋
 
-{{< instagram BSFrU5jhZUm hidecaption >}}
 
 住所: 香川県高松市福岡町３丁目１２−１３  
 ウェブサイト: http://www.e-sake.to/fukusima/  
@@ -552,7 +520,6 @@ TEL:  087-821-4584
 ## 高知県
 ### 酒蔵 ことぶき屋
 
-{{< instagram BRk9vGXDrkn hidecaption >}}
 
 住所: 高知県四万十市中村天神橋４−１
 ウェブサイト: http://www.kotobukiya.org  
@@ -565,7 +532,6 @@ TEL: 0880-35-2531
 ## 愛媛県
 ### 塩ザキ商店
 
-{{< instagram BYaOyWijuJ6 hidecaption >}}
 
 「あなたの胃袋に旨いお酒を注ぎたい」というキャッチフレーズをお持ちの酒屋さん。地元の西条市に根付いた商いをされています。
 
@@ -578,7 +544,6 @@ Facebook Page: https://www.facebook.com/塩ザキ商店-309919632356633/
 ## 福岡県
 ### とどろき酒店
 
-{{< instagram BT3atc8l3rk hidecaption >}}
 
 ウェブサイトがおしゃれでとても酒屋とは思えないほど。独自ブランドも展開されていて、活動内容がとても楽しげ。
 
@@ -588,7 +553,6 @@ TEL: 092-571-6304
 
 ### 博多住吉酒販 本店
 
-{{< instagram BY-IuJShBuq hidecaption >}}
 
 住所: 福岡県福岡市博多区住吉３丁目８−２７  
 ウェブサイト: http://sumiyoshi-sake.jp  
@@ -598,7 +562,6 @@ TEL:  092-281-3815
 
 ### 地酒処 田村本店
 
-{{< instagram BT4D2x1jmnC hidecaption >}}
 
 手仕事で造られたお酒と名酒ギフトの専門店です。地酒、焼酎、梅酒など、品質志向のお酒を800種類以上揃えられています。
 
@@ -621,7 +584,6 @@ TEL: 093-651-4082
 ## 佐賀県
 ### 地酒処 山田酒店
 
-{{< instagram BVi9o_8hqd8 hidecaption >}}
 
 鍋島の「富久千代酒造」との結びつきが強い酒屋さん。D&Departmentのインタビュー記事が良いので、是非チェックしてみて下さい。  
 http://www.d-department.com/jp/archives/shops/3356  
@@ -646,7 +608,6 @@ TEL: 096-379-0787
 ## 宮崎県
 ### 河野俊郎酒店
 
-{{< instagram BUCKXHmDIy5 hidecaption >}}
 
 住所: 宮崎県宮崎市清武町 加納甲２６７７−１  
 通販サイト: http://www.kawanosaketen.com  
@@ -657,7 +618,6 @@ TEL: 0985-85-0021
 ## 鹿児島県
 ### コセド酒店 南栄本店
 
-{{< instagram BZIfESSgTmt hidecaption >}}
 
 住所: 鹿児島県鹿児島市南栄６−９１６−７２  
 ウェブサイト: http://kosedosaketen.com/honten/  
