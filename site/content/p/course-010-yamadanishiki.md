@@ -4,7 +4,7 @@ permalink: course-010-yamadanishiki/
 date: '2017-12-06T12:01:34+09:00'
 lastmod: '2018-08-27T12:01:34+09:00'
 author: admin
-categories: info
+categories: course
 tags:
   - ''
 og_description: >-
