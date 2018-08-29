@@ -1,6 +1,6 @@
 ---
 title: 12.日本酒歴長い人も実はわかってない、酵母や麹の本当の話
-permalink: course-012-surprisingly-real-sake-yeast-&-koji
+permalink: course-012-real-sake-yeast-&-koji
 date: '2018-08-29T10:20:54+09:00'
 lastmod: '2018-08-29T10:20:54+09:00'
 author: admin
