@@ -96,11 +96,16 @@
             </div>
           {{ end }}
 
+          {{ partial "block/banner.html" . }}
+
+
           <div class="mh3 mh0-l">
             {{ .Content }}
           </div>
 
           {{ partial "block/article-footer-meta.html" . }}
+          
+          {{ partial "block/banner.html" . }}
 
           <!-- {{ partial "block/share.html" . }} -->
 
