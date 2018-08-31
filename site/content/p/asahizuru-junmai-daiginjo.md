@@ -1,14 +1,15 @@
 ---
 title: 可憐なボディと果実感、少し早く訪れた小春日和—旭鶴 大吟醸
+permalink: asahizuru-daiginjo/
 date: '2018-04-03T19:18:44+09:00'
 lastmod: '2018-04-03T19:18:44+09:00'
 author: admin
-categories: brands
+categories: recipe
 tags:
   - ''
 og_description: >-
   まさに大吟醸らしいほっそりとしたボディと華やかで果実感のある香り、優しい甘味、滑らかでさらりとした印象と、よく出来た大吟醸酒と思います。ワイングラスで料理をあまり選ばずに合わせることができ、前菜全般に幅広い相性も見せてくれます。ただ、しっかりと相性を見せるにはクセのない食材を当てましょう。春を待つ軽やかな気分にさせてくれます。
-hero: /images/posts/brands/asahizuru-junmai-daiginjo/001.jpg
+hero: /images/2018-02-15-03.26.10-1.jpg
 toc: false
 ---
 
