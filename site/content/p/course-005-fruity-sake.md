@@ -89,7 +89,7 @@ toc: true
 
 この酵母のおかげで、とてもフルーティーな香りを感じることができます。
 
-## saketakuでも取り扱ったことあるフルーティーな日本酒
+# saketakuでも取り扱わせていただいたフルーティーな日本酒たち
 
 ### [・旭鶴 大吟醸](https://lab.saketaku.com/p/asahizuru-junmai-daiginjo/)
 
