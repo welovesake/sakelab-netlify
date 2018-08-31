@@ -95,7 +95,9 @@ saketakuでも取り扱ったことあるフルーティーなお酒は、
 
 {{< figure src="/images/2018-02-15-03.26.10-1.jpg" w="1024" h="1024" caption="華やかな香りの大吟醸酒。">}}
 
+[・女城主 大吟醸](https://lab.saketaku.com/p/onnajoshu-daiginjo/)
 
+{{< figure src="/images/2018-03-12-01.53.12-1.jpg" w="1024" h="1024" caption="もやし屋さんが開発したフルーティーな酵母を使った大吟醸酒。">}}
 
 なぜこの香りが生成されるかは、とても細かいプロセスが存在しますので[たのしい日本酒講座の第12回](https://lab.saketaku.com/p/course-012-surprisingly-real-yeast-koji/)をごらんください！
 
