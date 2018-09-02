@@ -2,7 +2,7 @@
 title: 09. より食事をおいしく。マリアージュの世界へようこそ！
 permalink: course-009-sake-marriage/
 date: '2017-12-06T12:01:15+09:00'
-lastmod: '2017-12-06T12:01:15+09:00'
+lastmod: '2018-09-02T12:01:15+09:00'
 author: admin
 categories: course
 tags:
@@ -196,4 +196,4 @@ saketakuスタッフも驚きの「マリアージュの世界」。
 >9. [より食事を美味しく。マリアージュの世界へようこそ。](/p/course-009-sake-marriage/)(←イマココ)\
 >10. [99.9%美味しい？！酒米の王様「山田錦」って何？](/p/course-010-yamadanishiki/)\
 >11. [新潟に「淡麗辛口」が多いワケ。知ると日本酒がたのしくなる！](/p/course-011-nigata-dry-sake/)\
->12. 今さら聞けない、酵母や麹の本当のはなし。
+>12. [今さら聞けない、酵母や麹の本当のはなし。](/p/course-012-surprisingly-real-yeast-koji/)
