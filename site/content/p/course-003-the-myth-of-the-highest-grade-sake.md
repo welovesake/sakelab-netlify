@@ -2,7 +2,7 @@
 title: 03. 「大吟醸、おいしいよね。」そんなあなた、損してます。
 permalink: entries/course-003-the-myth-of-the-highest-grade-sake
 date: '2017-12-05T23:01:32+09:00'
-lastmod: '2018-08-19T23:01:32+09:00'
+lastmod: '2018-09-02T23:01:32+09:00'
 author: admin
 categories: course
 tags:
@@ -194,4 +194,4 @@ toc: true
 >9. [より食事を美味しく。マリアージュの世界へようこそ。](/p/course-009-sake-marriage/)\
 >10. [99.9%美味しい？！酒米の王様「山田錦」って何？](/p/course-010-yamadanishiki/)\
 >11. [新潟に「淡麗辛口」が多いワケ。知ると日本酒がたのしくなる！](/p/course-011-nigata-dry-sake/)\
->12. 今さら聞けない、酵母や麹の本当のはなし。
+>12. [今さら聞けない、酵母や麹の本当のはなし。](/p/course-012-surprisingly-real-yeast-koji/)
