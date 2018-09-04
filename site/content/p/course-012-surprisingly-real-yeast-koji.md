@@ -313,8 +313,8 @@ DNA\
 ><p><p/>
 >### あなたの常識をぶった切る、日本酒の本当のはなし。
 >
-> 1. [バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について](/p/course-beginner-001-do-you-know-what-its-made-of/)\
-> 2. [脱「辛口のお酒ください」のススメ](/p/course-beginner-002-stop-asking-dry-type-of-sake/)\
+> 1. [バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について](/p/course-001-do-you-know-what-its-made-of/)\
+> 2. [脱「辛口のお酒ください」のススメ](/p/course-002-stop-asking-dry-type-of-sake/)\
 > 3. [「大吟醸美味しいよね。」そんなあなた、損してます。](/p/course-003-the-myth-of-the-highest-grade-sake/)\
 > 4. [「純米しか飲まないから。」絶対秘密、おいしい本醸造教えます。](/p/course-004-a-letter-for-junmai-lovers/)
 ><p><p/>
@@ -329,6 +329,6 @@ DNA\
 >
 > 9. [より食事を美味しく。マリアージュの世界へようこそ。](/p/course-009-sake-marriage/)\
 > 10. [99.9%美味しい？！酒米の王様「山田錦」って何？](/p/course-010-yamadanishiki/)\
-> 11. [新潟に「淡麗辛口」が多いワケ。知ると日本酒がたのしくなる！](/p/course-011-nigata-dry-sake/)(←イマココ)\
->12. [今さら聞けない、酵母や麹の本当のはなし。](/p/course-012-surprisingly-real-yeast-koji/)
+> 11. [新潟に「淡麗辛口」が多いワケ。知ると日本酒がたのしくなる！](/p/course-011-nigata-dry-sake/)\
+>12. [今さら聞けない、酵母や麹の本当のはなし。](/p/course-012-surprisingly-real-yeast-koji/)(←イマココ)
 
