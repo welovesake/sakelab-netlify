@@ -11,4 +11,4 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS"]
-  page = ["HTML", "AMP"]
+  page = ["HTML"]
