@@ -1,5 +1,5 @@
 ---
-title: 03. 「大吟醸、おいしいよね。」そんなあなた、損してます。
+title: 03. 「日本酒なら大吟醸！おいしいよね。」そんなあなた、損してます。
 permalink: entries/course-003-the-myth-of-the-highest-grade-sake
 date: '2017-12-05T23:01:32+09:00'
 lastmod: '2018-09-02T23:01:32+09:00'
