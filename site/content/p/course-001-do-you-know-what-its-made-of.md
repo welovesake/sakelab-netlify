@@ -2,7 +2,7 @@
 title: 01. バイオテクノロジーの芸術、あまり語られることのない日本酒の原料について
 permalink: entries/course-001-do-you-know-what-its-made-of
 date: '2017-11-23T20:51:00+09:00'
-lastmod: '2018-08-17T20:51:00+09:00'
+lastmod: '2018-09-07T20:51:00+09:00'
 author: admin
 categories: course
 tags:
@@ -44,7 +44,7 @@ toc: true
 9. [より食事を美味しく。マリアージュの世界へようこそ。](/p/course-009-sake-marriage/)\
 10. [99.9%美味しい？！酒米の王様「山田錦」って何？](/p/course-010-yamadanishiki/)\
 11. [新潟に「淡麗辛口」が多いワケ。知ると日本酒がたのしくなる！](/p/course-011-nigata-dry-sake/)\
-12. 今さら聞けない、酵母や麹の本当のはなし。  
+12. [今さら聞けない、酵母や麹の本当のはなし。](/p/course-012-surprisingly-real-yeast-koji/)
 
 日本酒は知れば知るほど、楽しく、美味しくなります。
 
