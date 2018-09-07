@@ -1,6 +1,6 @@
 ---
 title: 生酒を開封して半年経ってた･･･。読めばわかる日本酒の賞味期限と保存期間！
-slug: when-should-you-drink-up-the-sake-bottle
+permalink: when-should-you-drink-up-the-sake-bottle
 date: '2016-12-29T18:57:10+09:00'
 lastmod: '2018-09-06T19:24:29+09:00'
 author: admin
