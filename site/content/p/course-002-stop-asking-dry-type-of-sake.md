@@ -1,5 +1,5 @@
 ---
-title: 02. 脱「辛口のお酒ください」のススメ
+title: 02. 脱「新潟の美味しい辛口の日本酒ください」のススメ
 permalink: entries/course-002-stop-asking-dry-type-of-sake
 date: '2017-11-24T12:07:56+09:00'
 lastmod: '2018-09-02T12:07:56+09:00'
