@@ -1,8 +1,8 @@
 ---
-title: 【酒蔵コンサルタント監修】日本酒ソムリエ協会「SAKE DIPLOMA」保有者が利き酒した鑑定書
+title: 日本酒ソムリエ協会「SAKE DIPLOMA」保有者が利き酒した鑑定書【酒蔵コンサルタント監修】
 permalink: about-proof-of-sake
 date: '2018-08-24T13:47:53+09:00'
-lastmod: '2018-09-07T13:47:53+09:00'
+lastmod: '2018-09-10T13:47:53+09:00'
 author: admin
 categories: learn
 tags:
