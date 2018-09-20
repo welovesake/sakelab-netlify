@@ -96,8 +96,7 @@ saketakuを続けてくださる期間が長いほど、普段の宅飲みを豪
 すずゆみさんやケニチさんがsaketakuを楽しんでくださいました！
 saketakuの様子を具体的に知りたい方はぜひごらんください！
 
-<iframe width="1204" height="677" src="https://www.youtube.com/embed/OJXtDEPSRck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+{{<youtube id="OJXtDEPSRck" caption="家飲み動画で人気のすずゆみさんにご紹介いただきました" >}}
 
 <iframe width="1204" height="677" src="https://www.youtube.com/embed/jGVqpL7kdJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
