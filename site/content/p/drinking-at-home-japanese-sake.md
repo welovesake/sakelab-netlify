@@ -98,5 +98,4 @@ saketakuの様子を具体的に知りたい方はぜひごらんください！
 
 {{<youtube id="OJXtDEPSRck" caption="家飲み動画で人気のすずゆみさんにご紹介いただきました" >}}
 
-<iframe width="1204" height="677" src="https://www.youtube.com/embed/jGVqpL7kdJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+{{<youtube id="jGVqpL7kdJk" caption="グルメなケニチさんにご紹介いただきました！" >}}
