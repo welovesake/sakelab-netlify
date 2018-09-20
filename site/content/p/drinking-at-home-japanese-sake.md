@@ -91,7 +91,7 @@ saketakuを続けてくださる期間が長いほど、普段の宅飲みを豪
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">厳選日本酒を毎月届けてくれるサービス「<a href="https://twitter.com/hashtag/saketaku?src=hash&amp;ref_src=twsrc%5Etfw">#saketaku</a>」<br>こちらをお試しできる機会をいただきました✨🍶🍶✨<br><br>日本酒ソムリエが美味しさや季節、希少性を考えて厳選した日本酒を月1～2本のペースで届けてくれます。また、日本酒の詳しい解説書やおつまみがついており、家飲み派に嬉しいセットですね。 <a href="https://t.co/eMlFVTWWew">pic.twitter.com/eMlFVTWWew</a></p>&mdash; 三代目悪人🍺ビール本 (@sandaime) <a href="https://twitter.com/sandaime/status/1040246913222696965?ref_src=twsrc%5Etfw">2018年9月13日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Youtuberさんもご紹介いただきました！
+## Youtuberさんにもご紹介いただきました！
 
 すずゆみさんやケニチさんがsaketakuを楽しんでくださいました！
 saketakuの様子を具体的に知りたい方はぜひごらんください！
