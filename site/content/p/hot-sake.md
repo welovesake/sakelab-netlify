@@ -3,6 +3,7 @@ title: 温度を上げるだけでもレンジは絶対NG！本当に美味し�
 permalink: about-hot-sake
 date: '2018-09-18T18:53:29+09:00'
 lastmod: '2018-09-20T18:53:29+09:00'
+slug: 'hot-sake'
 author: admin
 categories: learn
 tags:
