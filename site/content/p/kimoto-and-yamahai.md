@@ -2,7 +2,7 @@
 title: 日本酒でよく見る「生酛」と「山廃」の意味、わかりやすく解説しました
 permalink: kimoto-and-yamahai/
 date: '2017-08-27T19:38:07+09:00'
-lastmod: '2018-09-14T19:38:07+09:00'
+lastmod: '2018-09-20T19:38:07+09:00'
 author: admin
 categories: learn
 tags:
