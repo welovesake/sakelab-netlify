@@ -2,7 +2,7 @@
 title: 温度を上げるだけでもレンジは絶対NG！本当に美味しい日本酒の熱燗の作り方
 permalink: about-hot-sake
 date: '2018-09-18T18:53:29+09:00'
-lastmod: '2018-09-18T18:53:29+09:00'
+lastmod: '2018-09-20T18:53:29+09:00'
 author: admin
 categories: learn
 tags:
