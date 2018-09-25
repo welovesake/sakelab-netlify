@@ -1,5 +1,6 @@
 <!-- Open Graph Tags -->
-<meta itemprop="og:image" content="{{ .Site.BaseURL }}/assets/images/{{ .Params.hero | default .Params.og.image }}-large.jpg">
+
+<meta itemprop="og:image" content="{{ .Site.BaseURL }}/assets{{ .Params.hero | default .Params.og.image }}-large.jpg">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:locale" content="{{ .Site.Params.og.locale }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
