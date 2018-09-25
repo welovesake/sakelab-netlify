@@ -124,7 +124,9 @@ toc: true
 
 saketakuでは希少で美味しい日本酒を頒布しております。[ソムリエが約半年の時間をかけて厳選した日本酒の選定プロセス](https://saketaku.com/p/c-premium-sake/)や[酒蔵コンサルタントが監修している大好評の鑑定書](https://saketaku.com/p/c-proof-of-sake/)についてはこちらをご覧ください！
 
-### [二才の醸(宝山酒造)](<>)
+### [二才の醸(宝山酒造)](https://lab.saketaku.com/p/takarayama-nisai-no-kamoshi/)
+
+爽やかな香りと味わいがとても好評でした！
 
 {{< figure src="/images/2018-05-10-03.37.51-2.jpg" w="800" h="800" caption="爽やかな果実の香りとキレの良い新潟淡麗の「二才の醸」。グッドデザイン賞も受賞しています。">}}
 
