@@ -167,15 +167,15 @@ toc: true
 
 {{< figure src="/images/2018-05-10-03.37.52-2.jpg" w="800" h="800" caption="柔らかい甘味と飲みやすさが特徴の「新潟 宝山 純米酒」">}}
 
-* [**女鳥羽の泉 純米吟醸酒**](https://lab.saketaku.com/p/metoba-no-izumi/)
+### ・ [**女鳥羽の泉 純米吟醸酒**](https://lab.saketaku.com/p/metoba-no-izumi/)
 
 {{< figure src="/images/スクリーンショット-2018-09-28-17.39.47.png" w="800" h="800" caption="長野県松本市の城下町が「平成の名水百選」に認定されています。市内に蔵がある善哉酒造の純米吟醸酒。">}}
 
-* [**るみ子の酒**](https://lab.saketaku.com/p/rumiko-no-sake/)
+### ・ [**るみ子の酒**](https://lab.saketaku.com/p/rumiko-no-sake/)
 
 {{< figure src="/images/スクリーンショット-2018-09-28-17.40.18.png" w="800" h="800" caption="9号酵母の純米酒。森喜さんの定番酒です。">}}
 
-* [**太白山 純米にごり**](https://lab.saketaku.com/p/tenjo-mugen-taihakusan/)
+### ・ [**太白山 純米にごり**](https://lab.saketaku.com/p/tenjo-mugen-taihakusan/)
 
 {{< figure src="/images/スクリーンショット-2018-09-28-17.40.58.png" w="800" h="800" caption="宮城県の中勇酒造さんのにごり酒。甘味が強すぎずバランスの良い仕上がりです。">}}
 
