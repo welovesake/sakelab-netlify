@@ -151,11 +151,11 @@ toc: true
 
 ## saketakuでお届けしたことのある本醸造酒
 
-### * [**宝山 本醸造酒**](https://lab.saketaku.com/p/takarayama-honjo/)
+### ・ [**宝山 本醸造酒**](https://lab.saketaku.com/p/takarayama-honjo/)
 
 {{< figure src="/images/2018-05-10-03.37.51-3.jpg" w="800" h="800" caption="地元の方がよく飲む、新潟の「宝山 本醸造」">}}
 
-### * [**女鳥羽の泉 本醸造酒**](https://lab.saketaku.com/p/metoba-no-izumi-honjo/)
+### ・ [**女鳥羽の泉 本醸造酒**](https://lab.saketaku.com/p/metoba-no-izumi-honjo/)
 
 {{< figure src="/images/スクリーンショット-2018-09-28-16.04.53.png" w="800" h="800" caption="長野県松本市の善哉(よいかな)酒造さんの夏の本醸造酒。saketaku用に無濾過にしていただいています。">}}
 
