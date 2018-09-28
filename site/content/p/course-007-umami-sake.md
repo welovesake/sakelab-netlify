@@ -81,11 +81,11 @@ toc: true
 
 ## saketakuでお届けしたことのあるうま味が乗った日本酒
 
-[・西堀 純米 無濾過](<>)
+### [・西堀 純米 無濾過](/p/nishibiri-junmai-murok)
 
 {{< figure src="/images/スクリーンショット-2018-09-28-19.41.36.png" w="500" h="500" caption="栃木県西堀酒造の「西堀 純米 無濾過」しっかりと味が乗っています。">}}
 
-[・女城主 原酒Special saketaku限定](/p/onnajoshu-genshu-special-saketaku-original/)
+### [・女城主 原酒Special saketaku限定](/p/onnajoshu-genshu-special-saketaku-original/)
 
 ## まとめ
 
