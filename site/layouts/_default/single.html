@@ -104,14 +104,19 @@
             {{ .Content }}
 
             <div class="w-100 tc mv4">
-              <h2 class="mb3 lh-title">
-                ようこそsaketakuへ🎉<br>
-                シェアして日本酒好きを広めましょう🍶✨
-              </h2>
-              <div>
-                <a class="mr2 dim dib ph4 pv3 tracked white b br2 pointer no-underline" style="background-color:#2aa3f0"  href="http://twitter.com/share?url=https%3a%2f%2flab%2esaketaku%2ecom{{ .Permalink | safeURL }}&related=saketaku_san&hashtags=saketaku">ツイートする</a>
-                <a class="mr2 dim dib ph4 pv3 tracked white b br2 pointer no-underline" style="background-color:#3c5b97"  href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2flab%2esaketaku%2ecom{{ .URL | safeURL }}">シェアする</a>
-                <a class="dim dib ph4 pv3 tracked white b br2 pointer no-underline" style="background-color:#1dc121"  href="http://line.me/R/msg/text/?https%3a%2f%2flab%2esaketaku%2ecom{{ .URL | safeURL }}">LINEする</a>
+              <h5 class="mb3 lh-title">
+                日本酒好きにシェアする
+              </h5>
+              <div class="flex flex-wrap">
+                <div class="w-33 ph1">
+                  <a class="w-100 f6 dim dib pv3 tracked white b br2 pointer no-underline" style="background-color:#2aa3f0"  href="http://twitter.com/share?url=https%3a%2f%2flab%2esaketaku%2ecom{{ .Permalink | safeURL }}&related=saketaku_san&hashtags=saketaku">ツイートする</a>
+                </div>
+                <div class="w-33 ph1">
+                  <a class="w-100 f6 dim dib pv3 tracked white b br2 pointer no-underline" style="background-color:#3c5b97"  href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2flab%2esaketaku%2ecom{{ .URL | safeURL }}">シェアする</a>
+                </div>
+                <div class="w-33 ph1">
+                  <a class="w-100 f6 dim dib pv3 tracked white b br2 pointer no-underline" style="background-color:#1dc121"  href="http://line.me/R/msg/text/?https%3a%2f%2flab%2esaketaku%2ecom{{ .URL | safeURL }}">LINEする</a>
+                </div>
               </div>
             </div>
 
