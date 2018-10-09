@@ -4,7 +4,7 @@ permalink: sake-analysis-value
 date: '2018-10-06T14:44:25+09:00'
 lastmod: '2018-10-06T14:44:25+09:00'
 author: admin
-categories: course
+categories: tasting
 tags:
   - 学び
   - テイスティング
