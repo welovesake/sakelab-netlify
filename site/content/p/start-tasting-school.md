@@ -4,7 +4,7 @@ permalink: start-tasting-school
 date: '2018-10-05T18:20:06+09:00'
 lastmod: '2018-10-05T18:20:06+09:00'
 author: admin
-categories: course
+categories: tasting
 tags:
   - 学び
   - テイスティング
