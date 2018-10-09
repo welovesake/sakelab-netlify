@@ -4,7 +4,7 @@ permalink: sake-color
 date: '2018-10-07T12:06:54+09:00'
 lastmod: '2018-10-07T12:06:54+09:00'
 author: admin
-categories: course
+categories: tasting
 tags:
   - 学び
 og_description: >-
