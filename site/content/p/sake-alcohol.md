@@ -4,7 +4,7 @@ permalink: sake-alcohol
 date: '2018-10-15T12:36:08+09:00'
 lastmod: '2018-10-15T12:36:08+09:00'
 author: admin
-categories: tasting
+categories: learn
 tags:
   - 学び
 og_description: >-
