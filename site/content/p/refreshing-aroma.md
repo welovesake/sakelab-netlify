@@ -2,7 +2,7 @@
 title: 「清涼感があってスッキリとする日本酒」〜ヨーグルトや青竹も爽やかな印象を与えます〜
 permalink: refreshing-aroma
 date: '2018-10-22T06:37:59+09:00'
-lastmod: '2018-10-22T06:37:59+09:00'
+lastmod: '2018-10-30T06:37:59+09:00'
 author: admin
 categories: tasting
 tags:
