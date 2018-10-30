@@ -2,7 +2,7 @@
 title: 「フルーティーな香りの日本酒」〜ベースはリンゴとバナナ。あとは何を足す？〜
 permalink: fruity-aroma
 date: '2018-10-22T06:35:33+09:00'
-lastmod: '2018-10-22T06:35:33+09:00'
+lastmod: '2018-10-30T06:35:33+09:00'
 author: admin
 categories: tasting
 tags:
