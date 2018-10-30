@@ -2,7 +2,7 @@
 title: 日本酒のアルコール度数について解説！ 焼酎やビール、ワインとの違い
 permalink: sake-alcohol
 date: '2018-10-15T12:36:08+09:00'
-lastmod: '2018-10-15T12:36:08+09:00'
+lastmod: '2018-10-30T12:36:08+09:00'
 author: admin
 categories: learn
 tags:
