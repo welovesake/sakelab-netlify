@@ -7,9 +7,8 @@ author: admin
 categories: learn
 tags:
   - 学び
-og_description: |
-  テスト
-intro: こんにちは。今回は「炭」と日本酒との関係を解説していきます！
+og_description: こんにちは。今回は「炭」と日本酒との関係を解説していきます！
+intro: ''
 hero: /images/pile-1715419_1280.jpg
 toc: true
 ---
