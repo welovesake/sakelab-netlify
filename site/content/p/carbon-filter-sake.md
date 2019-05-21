@@ -9,6 +9,7 @@ tags:
   - 学び
 og_description: テスト
 intro: 炭を使うと
+hero: /images/pile-1715419_1280.jpg
 toc: false
 ---
 前回は「日本酒と色」についての概要でした。
