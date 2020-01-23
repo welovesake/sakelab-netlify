@@ -2,7 +2,7 @@
 title: 【日本酒を勉強しま酒】製造年月日と賞味期限
 permalink: nihonshu-study-date
 date: '2018-08-20T10:59:26+09:00'
-lastmod: '2018-09-06T10:59:26+09:00'
+lastmod: '2020-01-23T10:59:26+09:00'
 author: admin
 categories: learn
 tags:
