@@ -1,5 +1,5 @@
 ---
-title: 日本ソムリエ協会「第１回J.S.A.SAKE DIPLOMAコンクール 優勝」保有者が利き酒した鑑定書【酒蔵コンサルタント監修】
+title: 日本ソムリエ協会「第１回J.S.A.SAKE DIPLOMAコンクール 優勝者」が利き酒した鑑定書【酒蔵コンサルタント監修】
 permalink: about-proof-of-sake
 date: '2018-08-24T13:47:53+09:00'
 lastmod: '2020-01-23T13:47:53+09:00'
